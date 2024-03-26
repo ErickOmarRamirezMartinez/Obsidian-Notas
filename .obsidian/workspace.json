@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "e48a040675f20c2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd63cb2ad02f23cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03ba2cd8501d8444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sitio Freelancer con HTML/HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2e7dea82316662db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365777afbf59b88e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a25b22cbd176fd9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "65cdfe0bd868da5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51a071391253374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6eae07c83003af18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5334aca47218947",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fde6696123ab1c11",
+    "type": "split",
+    "children": [
+      {
+        "id": "1071b8d30502b272",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ebfa9b69f05efa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sitio Freelancer con HTML/HTML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b463754a3e0aa8f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sitio Freelancer con HTML/HTML.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f37298b89f19443b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "425be37c73d0ab2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sitio Freelancer con HTML/HTML.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "03ba2cd8501d8444",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Sitio Freelancer con HTML/HTML.md",
+    "Sitio Freelancer con HTML",
+    "Empty File",
+    "HTML/Sitio Freelancer con HTML.md",
+    "HTML"
+  ]
+}

@@ -1,40 +1,20 @@
 {
   "main": {
-    "id": "e48a040675f20c2a",
+    "id": "813e5dd797793b89",
     "type": "split",
     "children": [
       {
-        "id": "cd63cb2ad02f23cf",
+        "id": "668bc4e4732ef21e",
         "type": "tabs",
-        "dimension": 52.55863539445629,
         "children": [
           {
-            "id": "03ba2cd8501d8444",
+            "id": "6ca2af6aece584fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
+                "file": "Sitio Freelancer con HTML/Prueba Windows.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "49288226085167a8",
-        "type": "tabs",
-        "dimension": 47.44136460554371,
-        "children": [
-          {
-            "id": "41fb73f1994c75d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -45,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a25b22cbd176fd9e",
+    "id": "046aff4ca9718d7f",
     "type": "split",
     "children": [
       {
-        "id": "65cdfe0bd868da5b",
+        "id": "5b1594119472da67",
         "type": "tabs",
         "children": [
           {
-            "id": "c51a071391253374",
+            "id": "22a71d88851ffb2b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +43,7 @@
             }
           },
           {
-            "id": "6eae07c83003af18",
+            "id": "13944b2c9f4bdcba",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +58,7 @@
             }
           },
           {
-            "id": "e5334aca47218947",
+            "id": "67bb5166e5421776",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "fde6696123ab1c11",
+    "id": "17bccf8047364499",
     "type": "split",
     "children": [
       {
-        "id": "1071b8d30502b272",
+        "id": "0820eff46227bbf7",
         "type": "tabs",
         "children": [
           {
-            "id": "c0ebfa9b69f05efa",
+            "id": "1661c005f62f4ab7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
+                "file": "Sitio Freelancer con HTML/Prueba Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +97,19 @@
             }
           },
           {
-            "id": "b463754a3e0aa8f5",
+            "id": "9f60d5d5f60a9bc8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
+                "file": "Sitio Freelancer con HTML/Prueba Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f37298b89f19443b",
+            "id": "c95be75a2f866ccc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,12 +120,12 @@
             }
           },
           {
-            "id": "425be37c73d0ab2a",
+            "id": "e66d33bc9e7d4712",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md"
+                "file": "Sitio Freelancer con HTML/Prueba Windows.md"
               }
             }
           }
@@ -167,23 +147,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "03ba2cd8501d8444",
+  "active": "6ca2af6aece584fe",
   "lastOpenFiles": [
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
-    "Curso Desarrollo Web",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/extras/Pasted image 20240326194144.png",
-    "index.py",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/extras",
-    "Pasted image 20240326194105.png",
-    "Curso Desarrollo Web/Informacion/Que debes de priorizar.md",
-    "Curso Desarrollo Web/Informacion/Tecnologías que utilizare.md",
-    "Curso Desarrollo Web/Informacion/Full Stack Developer.md",
-    "Curso Desarrollo Web/Informacion/Frontend.md",
-    "Curso Desarrollo Web/Informacion/Backend.md",
-    "Curso Desarrollo Web/Informacion",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML",
-    "Empty File",
-    "HTML/Sitio Freelancer con HTML.md",
-    "HTML"
+    "Sitio Freelancer con HTML/Introducción.md",
+    "Sitio Freelancer con HTML/Prueba Windows.md",
+    "Informacion/Tecnologías que utilizare.md",
+    "Informacion/Que debes de priorizar.md",
+    "Informacion/Full Stack Developer.md",
+    "Informacion/Frontend.md",
+    "Informacion/Backend.md"
   ]
 }

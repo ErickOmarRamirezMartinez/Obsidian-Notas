@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sitio Freelancer con HTML/Prueba Windows.md",
+                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Prueba Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sitio Freelancer con HTML/Prueba Windows.md",
+                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Prueba Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sitio Freelancer con HTML/Prueba Windows.md",
+                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Prueba Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sitio Freelancer con HTML/Prueba Windows.md"
+                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Prueba Windows.md"
               }
             }
           }
@@ -147,14 +147,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6ca2af6aece584fe",
+  "active": "22a71d88851ffb2b",
   "lastOpenFiles": [
-    "Sitio Freelancer con HTML/Introducción.md",
-    "Sitio Freelancer con HTML/Prueba Windows.md",
-    "Informacion/Tecnologías que utilizare.md",
-    "Informacion/Que debes de priorizar.md",
-    "Informacion/Full Stack Developer.md",
-    "Informacion/Frontend.md",
-    "Informacion/Backend.md"
+    "Curso Desarrollo Web",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/Prueba Windows.md",
+    "Curso Desarrollo Web/Informacion/Tecnologías que utilizare.md",
+    "Curso Desarrollo Web/Informacion/Que debes de priorizar.md",
+    "Curso Desarrollo Web/Informacion/Full Stack Developer.md",
+    "Curso Desarrollo Web/Informacion/Frontend.md",
+    "Curso Desarrollo Web/Informacion/Backend.md"
   ]
 }

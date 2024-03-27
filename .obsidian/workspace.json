@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sitio Freelancer con HTML/HTML.md",
+                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sitio Freelancer con HTML/HTML.md",
+                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fde6696123ab1c11",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sitio Freelancer con HTML/HTML.md",
+                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sitio Freelancer con HTML/HTML.md",
+                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sitio Freelancer con HTML/HTML.md"
+                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md"
               }
             }
           }
@@ -165,19 +164,24 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian42-brat:BRAT": false,
-      "github-sync:Sync with Remote": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "03ba2cd8501d8444",
   "lastOpenFiles": [
-    "Informacion/Full Stack Developer.md",
-    "Sitio Freelancer con HTML/HTML.md",
-    "Informacion/Tecnologías que utilizare.md",
-    "Informacion/Frontend.md",
-    "Informacion/Backend.md",
-    "Informacion",
-    "Sitio Freelancer con HTML",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
+    "Curso Desarrollo Web",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/extras/Pasted image 20240326194144.png",
+    "index.py",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/extras",
+    "Pasted image 20240326194105.png",
+    "Curso Desarrollo Web/Informacion/Que debes de priorizar.md",
+    "Curso Desarrollo Web/Informacion/Tecnologías que utilizare.md",
+    "Curso Desarrollo Web/Informacion/Full Stack Developer.md",
+    "Curso Desarrollo Web/Informacion/Frontend.md",
+    "Curso Desarrollo Web/Informacion/Backend.md",
+    "Curso Desarrollo Web/Informacion",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML",
     "Empty File",
     "HTML/Sitio Freelancer con HTML.md",
     "HTML"

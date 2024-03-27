@@ -6,6 +6,7 @@
       {
         "id": "cd63cb2ad02f23cf",
         "type": "tabs",
+        "dimension": 52.55863539445629,
         "children": [
           {
             "id": "03ba2cd8501d8444",
@@ -22,15 +23,20 @@
         ]
       },
       {
-        "id": "2e7dea82316662db",
+        "id": "49288226085167a8",
         "type": "tabs",
+        "dimension": 47.44136460554371,
         "children": [
           {
-            "id": "365777afbf59b88e",
+            "id": "41fb73f1994c75d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sitio Freelancer con HTML/HTML.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -83,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fde6696123ab1c11",
@@ -164,8 +171,12 @@
   },
   "active": "03ba2cd8501d8444",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Informacion/Full Stack Developer.md",
     "Sitio Freelancer con HTML/HTML.md",
+    "Informacion/Tecnologías que utilizare.md",
+    "Informacion/Frontend.md",
+    "Informacion/Backend.md",
+    "Informacion",
     "Sitio Freelancer con HTML",
     "Empty File",
     "HTML/Sitio Freelancer con HTML.md",

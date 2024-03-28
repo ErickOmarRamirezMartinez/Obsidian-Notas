@@ -12,12 +12,8 @@
             "id": "03ba2cd8501d8444",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/Sintaxis de las Tablas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -33,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas en HTML.md",
+                "file": "Curso Desarrollo Web/HTML5/Listas/Listas con Descripciones/<dl> Listas con Descripcion.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/Sintaxis de las Tablas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/Sintaxis de las Tablas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/Sintaxis de las Tablas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,52 +161,53 @@
   },
   "active": "03ba2cd8501d8444",
   "lastOpenFiles": [
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas en HTML.md",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/Sintaxis de las Tablas.md",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos/Atributos colspan y rowspan.md",
-    "Curso Desarrollo Web/HTML5/Links en HTML/Links en HTML y CSS.md",
     "Curso Desarrollo Web/HTML5/HTML5.md",
+    "Curso Desarrollo Web/HTML5/Listas/Uso de Listas en HTML.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Estructurar el codigo en HTML.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic.md",
+    "Curso Desarrollo Web/HTML5/Listas/Listas con Descripciones/<dl> Listas con Descripcion.md",
+    "Curso Desarrollo Web/HTML5/Listas/Listas Ordenadas/<ol> Listas Ordenadas.md",
+    "Curso Desarrollo Web/HTML5/Listas/Listas con Descripciones",
+    "Curso Desarrollo Web/HTML5/Listas/Listas no Ordenadas/<ul> Listas no Ordenadas.md",
+    "Curso Desarrollo Web/HTML5/Listas/Listas Ordenadas",
+    "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
+    "Sin título",
+    "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos/Atributos colspan y rowspan.md",
+    "Curso Desarrollo Web/HTML5/Listas/Listas no Ordenadas",
+    "Curso Desarrollo Web/HTML5/Listas",
+    "Curso Desarrollo Web/HTML5/Links en HTML/Links en HTML y CSS.md",
+    "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos/extras/Pasted image 20240328123640.png",
+    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/Sintaxis de las Tablas.md",
+    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/extras/Pasted image 20240328114018.png",
+    "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos/extras/Pasted image 20240328115449.png",
+    "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos/extras",
+    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/extras",
+    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas en HTML.md",
+    "Curso Desarrollo Web/Indice.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Introducción.md",
+    "Curso Desarrollo Web/Sitio Freelancer con CSS/Introduccion CSS.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Añadiendo imagenes en HTML.md",
     "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos",
     "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas",
     "Curso Desarrollo Web/HTML5/Tablas en HTML/Sin título.md",
     "Curso Desarrollo Web/HTML5/Tablas en HTML/Sin título 1.md",
     "Curso Desarrollo Web/HTML5/Tablas en HTML",
     "Curso Desarrollo Web/HTML5/Links en HTML/extras/Pasted image 20240327231907.png",
-    "Curso Desarrollo Web/HTML5/Links en HTML/extras",
     "Curso Desarrollo Web/HTML5/Introduccion a HTML5/Introduccion a HTML5.md",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Introduccion a CSS 2.0.md",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Box Model/Box Model Introduccion.md",
-    "Curso Desarrollo Web/HTML5/Links en HTML",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS/Funcionamiento del Cascadeo en CSS.md",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Box Model/extras/Pasted image 20240327220106.png",
-    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Box Model/extras",
-    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Box Model",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS/extras/Pasted image 20240327213022.png",
-    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS/extras",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Clases CSS/Uso de Clases en CSS.md",
-    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Clases CSS/extras/Pasted image 20240327212155.png",
-    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Clases CSS/extras",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Formar de Agregar CSS a HTML/Como Añadir CSS a HTML.md",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/extras/Pasted image 20240327210440.png",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/extras/Pasted image 20240327210420.png",
-    "Curso Desarrollo Web/Indice.md",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/extras/Pasted image 20240327205524.png",
-    "Curso Desarrollo Web/Sitio Freelancer con CSS/Introduccion CSS.md",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic.md",
     "Curso Desarrollo Web/Informacion/Informacion.md",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Introducción.md",
     "Curso Desarrollo Web/Informacion/Full Stack Developer/Full Stack Developer.md",
-    "Curso Desarrollo Web/Informacion/Recomendaciones/Que debes de priorizar.md",
-    "Curso Desarrollo Web/Informacion/Recomendaciones/Tecnologías que utilizare.md",
-    "Curso Desarrollo Web/Informacion/BackEnd/Backend.md",
-    "Curso Desarrollo Web/HTML5/Introduccion a HTML5/extras/Untitled.png",
-    "Curso Desarrollo Web/HTML5/Introduccion a HTML5/extras/Untitled 1.png",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Añadiendo imagenes en HTML.md",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Estructurar el codigo en HTML.md",
-    "Curso Desarrollo Web/HTML5/Elementos Basicos/Elementos Basicos.md",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/extras/Pasted image 20240327175618.png",
-    "Curso Desarrollo Web/Informacion/FrontEnd/Frontend.md"
+    "Curso Desarrollo Web/Informacion/Recomendaciones/Que debes de priorizar.md"
   ]
 }

@@ -4,6 +4,8 @@
 
 [[Links en HTML y CSS]]
 
+[[Uso de Listas en HTML]]
+
 [[Tablas en HTML]]
 > [!info] Tabla periódica de HTML5 - HTML en español  
 > La tabla periódica de los elementos HTML5, categorizada en temáticas y con un enlace explicativo a cada etiqueta particular.  

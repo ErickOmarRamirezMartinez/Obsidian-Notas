@@ -1,20 +1,40 @@
 {
   "main": {
-    "id": "813e5dd797793b89",
+    "id": "e48a040675f20c2a",
     "type": "split",
     "children": [
       {
-        "id": "668bc4e4732ef21e",
+        "id": "cd63cb2ad02f23cf",
         "type": "tabs",
+        "dimension": 52.55863539445629,
         "children": [
           {
-            "id": "6ca2af6aece584fe",
+            "id": "03ba2cd8501d8444",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Prueba Windows.md",
+                "file": "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS/Funcionamiento del Cascadeo en CSS.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "49288226085167a8",
+        "type": "tabs",
+        "dimension": 47.44136460554371,
+        "children": [
+          {
+            "id": "41fb73f1994c75d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS/Funcionamiento del Cascadeo en CSS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,15 +45,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "046aff4ca9718d7f",
+    "id": "a25b22cbd176fd9e",
     "type": "split",
     "children": [
       {
-        "id": "5b1594119472da67",
+        "id": "65cdfe0bd868da5b",
         "type": "tabs",
         "children": [
           {
-            "id": "22a71d88851ffb2b",
+            "id": "c51a071391253374",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +63,7 @@
             }
           },
           {
-            "id": "13944b2c9f4bdcba",
+            "id": "6eae07c83003af18",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +78,7 @@
             }
           },
           {
-            "id": "67bb5166e5421776",
+            "id": "e5334aca47218947",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +92,20 @@
     "width": 300
   },
   "right": {
-    "id": "17bccf8047364499",
+    "id": "fde6696123ab1c11",
     "type": "split",
     "children": [
       {
-        "id": "0820eff46227bbf7",
+        "id": "1071b8d30502b272",
         "type": "tabs",
         "children": [
           {
-            "id": "1661c005f62f4ab7",
+            "id": "c0ebfa9b69f05efa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Prueba Windows.md",
+                "file": "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS/Funcionamiento del Cascadeo en CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +117,19 @@
             }
           },
           {
-            "id": "9f60d5d5f60a9bc8",
+            "id": "b463754a3e0aa8f5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Prueba Windows.md",
+                "file": "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS/Funcionamiento del Cascadeo en CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c95be75a2f866ccc",
+            "id": "f37298b89f19443b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +140,12 @@
             }
           },
           {
-            "id": "e66d33bc9e7d4712",
+            "id": "425be37c73d0ab2a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso Desarrollo Web/Sitio Freelancer con HTML/Prueba Windows.md"
+                "file": "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS/Funcionamiento del Cascadeo en CSS.md"
               }
             }
           }
@@ -147,15 +167,47 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "22a71d88851ffb2b",
+  "active": "03ba2cd8501d8444",
   "lastOpenFiles": [
-    "Curso Desarrollo Web",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/Introducción.md",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/Prueba Windows.md",
-    "Curso Desarrollo Web/Informacion/Tecnologías que utilizare.md",
-    "Curso Desarrollo Web/Informacion/Que debes de priorizar.md",
-    "Curso Desarrollo Web/Informacion/Full Stack Developer.md",
-    "Curso Desarrollo Web/Informacion/Frontend.md",
-    "Curso Desarrollo Web/Informacion/Backend.md"
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS/extras/Pasted image 20240327213022.png",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS/extras",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Introduccion a CSS 2.0.md",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS/Funcionamiento del Cascadeo en CSS.md",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Clases CSS/Uso de Clases en CSS.md",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Cascadeo en CSS",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Clases CSS/extras/Pasted image 20240327212155.png",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Clases CSS/extras",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Formar de Agregar CSS a HTML/Como Añadir CSS a HTML.md",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Clases CSS",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Formar de Agregar CSS a HTML",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/extras/Pasted image 20240327210440.png",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/extras/Pasted image 20240327210420.png",
+    "Curso Desarrollo Web/Indice.md",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/extras/Pasted image 20240327205524.png",
+    "Curso Desarrollo Web/HTML5/Introduccion a CSS/extras",
+    "Curso Desarrollo Web/HTML5/HTML5.md",
+    "Curso Desarrollo Web/Sitio Freelancer con CSS/Introduccion CSS.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic.md",
+    "Curso Desarrollo Web/Informacion/Informacion.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Introducción.md",
+    "Curso Desarrollo Web/Informacion/Full Stack Developer/Full Stack Developer.md",
+    "Curso Desarrollo Web/Informacion/Recomendaciones/Que debes de priorizar.md",
+    "Curso Desarrollo Web/Informacion/Recomendaciones/Tecnologías que utilizare.md",
+    "Curso Desarrollo Web/Informacion/Recomendaciones",
+    "Curso Desarrollo Web/Informacion/Full Stack Developer",
+    "Curso Desarrollo Web/Informacion/FrontEnd",
+    "Curso Desarrollo Web/Informacion/BackEnd/Backend.md",
+    "Curso Desarrollo Web/HTML5/Introduccion a HTML5/Introduccion a HTML5.md",
+    "Curso Desarrollo Web/HTML5/Introduccion a HTML5/extras/Untitled.png",
+    "Curso Desarrollo Web/HTML5/Introduccion a HTML5/extras/Untitled 1.png",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Añadiendo imagenes en HTML.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Estructurar el codigo en HTML.md",
+    "Curso Desarrollo Web/HTML5/Elementos Basicos/Elementos Basicos.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/extras/Pasted image 20240327175618.png",
+    "Curso Desarrollo Web/Informacion/FrontEnd/Frontend.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/extras/Pasted image 20240326194144.png",
+    "Pasted image 20240326194105.png",
+    "HTML/Sitio Freelancer con HTML.md"
   ]
 }

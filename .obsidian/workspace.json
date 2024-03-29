@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Metodos de Formulario.md",
+                "file": "Curso Desarrollo Web/Sitio Freelancer con CSS/Introduccion CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Metodos de Formulario.md",
+                "file": "Curso Desarrollo Web/HTML5/Secciones Semanticos/Elementos Semanticos en HTML.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Metodos de Formulario.md",
+                "file": "Curso Desarrollo Web/Sitio Freelancer con CSS/Introduccion CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Metodos de Formulario.md",
+                "file": "Curso Desarrollo Web/Sitio Freelancer con CSS/Introduccion CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Metodos de Formulario.md"
+                "file": "Curso Desarrollo Web/Sitio Freelancer con CSS/Introduccion CSS.md"
               }
             }
           }
@@ -169,13 +169,25 @@
   },
   "active": "03ba2cd8501d8444",
   "lastOpenFiles": [
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/extras/Pasted image 20240329002147.png",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Introduccion a Formularios.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Metodos de Formulario.md",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/Elementos Semanticos en HTML.md",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Otros Tipos de <input>.md",
     "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML.md",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Metodos de Formulario.md",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras/Pasted image 20240329163939.png",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras/Pasted image 20240329162900.png",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras/Pasted image 20240329162804.png",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras/Pasted image 20240329162635.png",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras/Pasted image 20240329162418.png",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras/Pasted image 20240329162332.png",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras/Pasted image 20240329162002.png",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras/Pasted image 20240329161828.png",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras/Pasted image 20240329161601.png",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras/Pasted image 20240329161456.png",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras",
+    "Curso Desarrollo Web/HTML5/HTML5.md",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Introduccion a Formularios.md",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos",
     "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Formulario HTML.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/extras/Pasted image 20240328235433.png",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/extras/Pasted image 20240328234930.png",
     "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/extras",
     "Curso Desarrollo Web/HTML5/Links en HTML/Links en HTML y CSS.md",
     "Curso Desarrollo Web/HTML5/Iframe/Iframes en HTML.md",
@@ -184,38 +196,25 @@
     "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic.md",
     "Curso Desarrollo Web/HTML5/Formularios",
     "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Estructurar el codigo en HTML.md",
-    "Curso Desarrollo Web/HTML5/HTML5.md",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Introduccion a CSS 2.0.md",
     "Curso Desarrollo Web/HTML5/Introduccion a HTML5/Introduccion a HTML5.md",
     "Curso Desarrollo Web/Sitio Freelancer con CSS/Introduccion CSS.md",
     "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Añadiendo imagenes en HTML.md",
     "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Introducción.md",
-    "Curso Desarrollo Web/HTML5/Iframe/extras/Pasted image 20240328213006.png",
     "Curso Desarrollo Web/HTML5/Iframe/extras",
     "Curso Desarrollo Web/HTML5/Elementos Inline y Block/DIV/<div> Block.md",
     "Curso Desarrollo Web/HTML5/Iframe",
     "Curso Desarrollo Web/HTML5/Elementos Inline y Block/SPAN/<span> Inline.md",
     "Curso Desarrollo Web/HTML5/Elementos Inline y Block/Elementos Inline y Block.md",
-    "Curso Desarrollo Web/HTML5/Elementos Inline y Block/DIV/extras/Pasted image 20240328211819.png",
     "Curso Desarrollo Web/HTML5/Elementos Inline y Block/DIV/extras",
-    "Curso Desarrollo Web/HTML5/Elementos Inline y Block/SPAN/extras/Pasted image 20240328210554.png",
     "Curso Desarrollo Web/HTML5/Elementos Inline y Block/SPAN/extras",
     "Curso Desarrollo Web/HTML5/Listas/Listas con Descripciones/<dl> Listas con Descripcion.md",
     "Curso Desarrollo Web/HTML5/Elementos Inline y Block/DIV",
-    "Curso Desarrollo Web/HTML5/Elementos Inline y Block/SPAN",
-    "Curso Desarrollo Web/HTML5/Elementos Inline y Block",
     "Curso Desarrollo Web/HTML5/Listas/Uso de Listas en HTML.md",
     "Curso Desarrollo Web/HTML5/Listas/Listas Ordenadas/<ol> Listas Ordenadas.md",
     "Curso Desarrollo Web/HTML5/Listas/Listas no Ordenadas/<ul> Listas no Ordenadas.md",
     "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos/Atributos colspan y rowspan.md",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos/extras/Pasted image 20240328123640.png",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/Sintaxis de las Tablas.md",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/extras/Pasted image 20240328114018.png",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos/extras/Pasted image 20240328115449.png",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas en HTML.md",
-    "Curso Desarrollo Web/HTML5/Links en HTML/extras/Pasted image 20240327231907.png",
-    "Curso Desarrollo Web/HTML5/Introduccion a CSS/Box Model/extras/Pasted image 20240327220106.png",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas"
   ]
 }

@@ -5,6 +5,13 @@
 > La etiqueta `<input>` es unos de los elementos ,as versatiles y se utiliza para crear los campos interactivos en los formularios web.
 
 
+## Atributos de la etiqueta `<form>`
+
+![[Pasted image 20240329145000.png]]
+
+
+---
+
 ## Algunos  `<input>` mas comunes que se utilizan son:
 
 +  `type="text"` 
@@ -324,8 +331,3 @@ Este es un campo se poner modificar nosotros sin que el usuario lo pueda ver o m
 <br>
 ```
 
-
-### `<input Type “search”>`
-```html
-
-```

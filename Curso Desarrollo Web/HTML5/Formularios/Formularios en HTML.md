@@ -3,3 +3,5 @@
 [[Formulario HTML]]
 
 [[Metodos de Formulario]]
+
+[[Otros Tipos de <input>]]

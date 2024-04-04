@@ -6,15 +6,15 @@
       {
         "id": "cd63cb2ad02f23cf",
         "type": "tabs",
-        "dimension": 52.53807106598984,
+        "dimension": 52.55863539445629,
         "children": [
           {
-            "id": "76b33827634972ea",
+            "id": "03ba2cd8501d8444",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Java Developer/Semana 4/Introduccion a Bootstrap.md",
+                "file": "Full Stack Java Developer/Semana 4/01 de Abril de 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "49288226085167a8",
         "type": "tabs",
-        "dimension": 47.46192893401016,
+        "dimension": 47.44136460554371,
         "children": [
           {
             "id": "41fb73f1994c75d0",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Java Developer/Semana 4/Introduccion a Bootstrap.md",
+                "file": "Curso Desarrollo Web/HTML5/Secciones Semanticos/Elementos Semanticos en HTML.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack Java Developer/Semana 4/Introduccion a Bootstrap.md",
+                "file": "Full Stack Java Developer/Semana 4/01 de Abril de 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack Java Developer/Semana 4/Introduccion a Bootstrap.md",
+                "file": "Full Stack Java Developer/Semana 4/01 de Abril de 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack Java Developer/Semana 4/Introduccion a Bootstrap.md"
+                "file": "Full Stack Java Developer/Semana 4/01 de Abril de 2024.md"
               }
             }
           }
@@ -167,12 +167,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "76b33827634972ea",
+  "active": "03ba2cd8501d8444",
   "lastOpenFiles": [
-    "Curso Desarrollo Web/HTML5/HTML5.md",
-    "Full Stack Java Developer/Semana 4/Introduccion a Bootstrap.md",
     "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 4/01 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 4/CV + Taller.md",
+    "Full Stack Java Developer/Semana 4.md",
+    "Curso Desarrollo Web/HTML5/Listas/Listas con Descripciones/<dl> Listas con Descripcion.md",
     "Full Stack Java Developer/Semana 4/extras/Pasted image 20240403162306.png",
     "Full Stack Java Developer/Semana 4/extras/Pasted image 20240403161806.png",
     "Full Stack Java Developer/Semana 4/extras/Pasted image 20240403161413.png",
@@ -183,37 +183,38 @@
     "Full Stack Java Developer/Semana 4/extras/Pasted image 20240403155359.png",
     "Full Stack Java Developer/Semana 4/extras/Pasted image 20240403155239.png",
     "Full Stack Java Developer/Semana 4/extras/Pasted image 20240403132529.png",
-    "Full Stack Java Developer/Semana 4.md",
-    "Full Stack Java Developer/Semana 4/CV + Taller.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Otros Tipos de _input_.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Metodos de Formulario.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Otros Tipos de _input_.md.opdownload",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Formulario HTML.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Introduccion a Formularios.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML.md",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Estructurar el codigo en HTML.md",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic.md",
-    "Curso Desarrollo Web/HTML5/Secciones Semanticos/Elementos Semanticos en HTML.md",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos/Atributos colspan y rowspan.md",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/Sintaxis de las Tablas.md",
     "Full Stack Java Developer/Semana 4/extras/EE-R - Sample Resume 2_vF.pdf",
     "Full Stack Java Developer/Semana 4/extras/EE-R - Best Practices Checklist - Writing your CV_vF.pdf",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas en HTML.md",
     "Full Stack Java Developer/Semana 4/extras",
-    "Curso Desarrollo Web/Sitio Freelancer con CSS/Introduccion CSS.md",
-    "Curso Desarrollo Web\\HTML5\\Elementos Inline y Block\\DIV",
+    "Full Stack Java Developer/Semana 4/Introduccion a Bootstrap.md",
+    "Full Stack Java Developer/Semana 4/01 de Abril de 2024.md",
     "Full Stack Java Developer/Semana 4",
     "Full Stack Java Developer",
+    "Curso Desarrollo Web/Sitio Freelancer con CSS/Introduccion CSS.md",
+    "Curso Desarrollo Web/HTML5/Secciones Semanticos/Elementos Semanticos en HTML.md",
     "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Otros Tipos de <input>.md",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML.md",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Metodos de Formulario.md",
     "Curso Desarrollo Web/HTML5/Secciones Semanticos/extras",
+    "Curso Desarrollo Web/HTML5/HTML5.md",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Introduccion a Formularios.md",
     "Curso Desarrollo Web/HTML5/Secciones Semanticos",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Formulario HTML.md",
     "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/extras",
     "Curso Desarrollo Web/HTML5/Links en HTML/Links en HTML y CSS.md",
     "Curso Desarrollo Web/HTML5/Iframe/Iframes en HTML.md",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML",
     "Curso Desarrollo Web/HTML5/Formularios/Sin título.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic.md",
+    "Curso Desarrollo Web/HTML5/Formularios",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Estructurar el codigo en HTML.md",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Introduccion a CSS 2.0.md",
     "Curso Desarrollo Web/HTML5/Introduccion a HTML5/Introduccion a HTML5.md",
     "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Añadiendo imagenes en HTML.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Introducción.md",
+    "Curso Desarrollo Web/HTML5/Elementos Inline y Block/DIV/<div> Block.md",
+    "Curso Desarrollo Web/HTML5/Elementos Inline y Block/SPAN/<span> Inline.md",
+    "Curso Desarrollo Web/HTML5/Elementos Inline y Block/Elementos Inline y Block.md",
     "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas"
   ]

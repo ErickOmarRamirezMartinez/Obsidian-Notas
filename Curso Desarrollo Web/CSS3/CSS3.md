@@ -2,7 +2,7 @@
 
 [[Manejo de Colores, Bordes, Margenes y Padding en CSS]]
 
-[[Height, Width and Max-width]]
+[[Height, Width and Max-width and Margin]]
 
 [[Box Model]]
 

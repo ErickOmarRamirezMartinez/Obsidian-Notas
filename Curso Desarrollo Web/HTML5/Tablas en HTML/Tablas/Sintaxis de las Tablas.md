@@ -28,4 +28,19 @@ También puedes añadir atributos a la etiqueta `<table>` y a las celdas para co
 
 ![[Pasted image 20240328114018.png]]
 
+---
+# Responsive
+## Tabla responsiva
 
+Una tabla adaptable mostrará una barra de desplazamiento horizontal si la pantalla es demasiado small para mostrar el contenido completo:
+![[Pasted image 20240405221103.png]]
+
+```html
+<div style="overflow-x:auto;">  
+  
+<table>  
+... table content ...  
+</table>  
+  
+</div>
+```

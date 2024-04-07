@@ -1,7 +1,7 @@
 # Diseño CSS - La propiedad display
 
 ## La propiedad display
-a propiedad se utiliza para especificar cómo se muestra un elemento en una página web.`display`
+La propiedad `display` se utiliza para especificar cómo se muestra un elemento en una página web.
 
 Cada elemento HTML tiene un valor de visualización predeterminado, dependiendo del tipo de elemento que sea. El valor de visualización predeterminado para la mayoría de los elementos es`block` o `inline`.
 
@@ -62,3 +62,4 @@ Sin embargo, el elemento seguirá ocupando el mismo espacio como antes. El eleme
 ```css
 h1.hidden {  visibility: hidden;}
 ```
+

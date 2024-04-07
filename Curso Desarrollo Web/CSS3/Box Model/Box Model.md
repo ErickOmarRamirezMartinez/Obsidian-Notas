@@ -264,6 +264,8 @@ h1 {  margin: 0 0 50px 0;}
 h2 {  margin: 20px 0 0 0;}
 ```
 
-En el ejemplo anterior, el elemento <h1> tiene un margen inferior de 50px y El <h2> tiene un margen superior establecido en 20px.
+En el ejemplo anterior, el elemento `<h1>` tiene un margen inferior de 50px y El `<h2>` tiene un margen superior establecido en 20px.
 
-El sentido común parecería sugerir que el margen vertical entre el <h1> y el <h2> sería un total de 70px (50px + 20px). Pero debido al colapso de los márgenes, El margen real termina siendo de 50px.
+El sentido común parecería sugerir que el margen vertical entre el `<h1>` y el `<h2>` sería un total de 70px (50px + 20px). Pero debido al colapso de los márgenes, El margen real termina siendo de 50px.
+
+![[Pasted image 20240406232344.png]]

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+                "file": "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Layout CSS - Diseño flotante y claro.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Height, Width and Max-width/Height, Width and Max-width and Margin.md",
+                "file": "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Layout CSS - Diseño flotante y claro.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+                "file": "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Layout CSS - Diseño flotante y claro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+                "file": "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Layout CSS - Diseño flotante y claro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md"
+                "file": "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Layout CSS - Diseño flotante y claro.md"
               }
             }
           }
@@ -167,30 +167,41 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "03ba2cd8501d8444",
+  "active": "41fb73f1994c75d0",
   "lastOpenFiles": [
+    "Curso Desarrollo Web/HTML5/HTML5.md",
+    "Curso Desarrollo Web/Indice.md",
+    "Curso Desarrollo Web/CSS3/CSS3.md",
+    "Full Stack Java Developer/Semana 4.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Layout CSS - Diseño flotante y claro.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/extras/Pasted image 20240406235821.png",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/extras/Pasted image 20240406235407.png",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/extras/Pasted image 20240406235257.png",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Z-Index en CSS.md",
+    "Curso Desarrollo Web/CSS3/Box Model/Box Model.md",
+    "Curso Desarrollo Web/CSS3/Box Model/extras/Pasted image 20240406232344.png",
     "Curso Desarrollo Web/CSS3/Height, Width and Max-width/Height, Width and Max-width and Margin.md",
-    "Curso Desarrollo Web/CSS3/Height, Width and Max-width/extras/Pasted image 20240405231316.png",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Overflow - Desbordamiento en CSS.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/extras/Pasted image 20240406231522.png",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/extras/Pasted image 20240406231404.png",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/extras/Pasted image 20240406231255.png",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/extras/Pasted image 20240406231128.png",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Posicionamiento y Visualizacion en CSS.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/extras/Pasted image 20240406222919.png",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/extras/Pasted image 20240406220540.png",
     "Curso Desarrollo Web/CSS3/Display CSS/Display en CSS.md",
-    "Curso Desarrollo Web/CSS3/Height, Width and Max-width/extras/Pasted image 20240405231000.png",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/extras",
+    "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos",
     "Curso Desarrollo Web/CSS3/Height, Width and Max-width/extras",
-    "Curso Desarrollo Web/CSS3/Display CSS/extras/Pasted image 20240405225944.png",
-    "Curso Desarrollo Web/CSS3/Display CSS/extras/Pasted image 20240405225931.png",
-    "Curso Desarrollo Web/CSS3/Display CSS/extras/Pasted image 20240405223645.png",
-    "Curso Desarrollo Web/CSS3/Display CSS/extras/Pasted image 20240405223015.png",
     "Curso Desarrollo Web/CSS3/Display CSS/extras",
     "Curso Desarrollo Web/HTML5/Tablas en HTML/Estilos/Estilos de Tabla.md",
-    "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
     "Curso Desarrollo Web/CSS3/Display CSS",
     "Curso Desarrollo Web/CSS3/Fuentes en CSS/Fuentes en CSS.md",
     "Curso Desarrollo Web/CSS3/Formato de Texto/Texto en CSS.md",
     "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/Sintaxis de las Tablas.md",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/extras/Pasted image 20240405221103.png",
     "Curso Desarrollo Web/HTML5/Links en HTML/Links en HTML y CSS.md",
     "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas en HTML.md",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Estilos/extras/Pasted image 20240405220835.png",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Estilos/extras/Pasted image 20240405220812.png",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Estilos/extras/Pasted image 20240405220755.png",
     "Curso Desarrollo Web/HTML5/Tablas en HTML/Estilos/extras",
     "Curso Desarrollo Web/CSS3/Iconos/Iconos en CSS.md",
     "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos/Atributos colspan y rowspan.md",
@@ -202,18 +213,8 @@
     "Curso Desarrollo Web/HTML5/Listas/Listas no Ordenadas/<ul> Listas no Ordenadas.md",
     "Curso Desarrollo Web/HTML5/Listas/Listas con Descripciones/<dl> Listas con Descripcion.md",
     "Curso Desarrollo Web/CSS3/Iconos/extras",
-    "Curso Desarrollo Web/CSS3/Iconos",
-    "Curso Desarrollo Web/CSS3/CSS3.md",
-    "Curso Desarrollo Web/CSS3/Fuentes en CSS/extras",
-    "Curso Desarrollo Web/Indice.md",
     "Curso Desarrollo Web/CSS3/Colores,  Bordes,  Margenes y Padding/Manejo de Colores, Bordes, Margenes y Padding en CSS.md",
-    "Curso Desarrollo Web/CSS3/Box Model/Box Model.md",
     "Curso Desarrollo Web/HTML5/Elementos Inline y Block/SPAN/<span> Inline.md",
-    "Curso Desarrollo Web/HTML5/Elementos Inline y Block/DIV/<div> Block.md",
-    "Curso Desarrollo Web/HTML5/Elementos Inline y Block/Elementos Inline y Block.md",
-    "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 4/04 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 4/Introduccion a Bootstrap.md",
     "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas"
   ]

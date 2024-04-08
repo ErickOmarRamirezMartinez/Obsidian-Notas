@@ -6,15 +6,15 @@
       {
         "id": "cd63cb2ad02f23cf",
         "type": "tabs",
-        "dimension": 52.55863539445629,
+        "dimension": 52.53807106598984,
         "children": [
           {
-            "id": "03ba2cd8501d8444",
+            "id": "76b33827634972ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoClases.md",
+                "file": "Full Stack Java Developer/Semana 5/08 de Abril de 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "49288226085167a8",
         "type": "tabs",
-        "dimension": 47.44136460554371,
+        "dimension": 47.46192893401016,
         "children": [
           {
             "id": "41fb73f1994c75d0",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoClases.md",
+                "file": "Full Stack Java Developer/Semana 5/08 de Abril de 2024.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 300
   },
   "right": {
     "id": "fde6696123ab1c11",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoClases.md",
+                "file": "Full Stack Java Developer/Semana 5/08 de Abril de 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoClases.md",
+                "file": "Full Stack Java Developer/Semana 5/08 de Abril de 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoClases.md"
+                "file": "Full Stack Java Developer/Semana 5/08 de Abril de 2024.md"
               }
             }
           }
@@ -167,54 +167,55 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "03ba2cd8501d8444",
+  "active": "76b33827634972ea",
   "lastOpenFiles": [
+    "Full Stack Java Developer/Semana 5/extras/Pasted image 20240408165843.png",
+    "Full Stack Java Developer/Semana 5/extras/Pasted image 20240408134909.png",
+    "Full Stack Java Developer/Semana 5/extras/Pasted image 20240408134741.png",
+    "Full Stack Java Developer/Semana 5/extras/Pasted image 20240408132250.png",
+    "Full Stack Java Developer/Semana 5/extras/Pasted image 20240408123347.png",
+    "Full Stack Java Developer/Semana 5/extras/Pasted image 20240408123256.png",
+    "Full Stack Java Developer/Semana 5/extras/Pasted image 20240408123245.png",
+    "Full Stack Java Developer/Semana 5/extras/Pasted image 20240408112830.png",
+    "Full Stack Java Developer/Semana 5/extras/Pasted image 20240408164833.png",
+    "Full Stack Java Developer/Semana 5/extras/Pasted image 20240408164829.png",
+    "Full Stack Java Developer/Semana 5/extras/Pasted image 20240408162749.png",
+    "Full Stack Java Developer/Semana 5/extras",
+    "Full Stack Java Developer/Semana 4/05 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 5/08 de Abril de 2024.md",
+    "Sin título.canvas",
+    "Full Stack Java Developer/Semana 4/Estres.md",
+    "Full Stack Java Developer/Semana 5.md",
+    "Full Stack Java Developer/Semana 4.md",
     "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoElementos.md",
+    "Full Stack Java Developer/Semana 5",
     "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoClases.md",
+    "Curso Desarrollo Web/JavaScript.md",
+    "Curso Desarrollo Web\\HTML5\\Tablas en HTML\\Tablas\\extras",
+    "Curso Desarrollo Web\\HTML5\\Tablas en HTML\\Tablas",
+    "Curso Desarrollo Web\\HTML5\\Tablas en HTML",
+    "Curso Desarrollo Web/HTML5/Tablas en HTML/Estilos/extras",
+    "Curso Desarrollo Web\\HTML5\\Tablas en HTML\\Estilos\\extras",
+    "Curso Desarrollo Web/HTML5/Tablas en HTML/Estilos/Estilos de Tabla.md",
+    "Curso Desarrollo Web/HTML5/Tablas en HTML/Estilos",
+    "Curso Desarrollo Web\\HTML5\\Tablas en HTML\\Estilos",
+    "Curso Desarrollo Web\\HTML5\\Listas",
+    "Curso Desarrollo Web/HTML5/Listas/Listas con CSS/Listas CSS.md",
+    "Curso Desarrollo Web/CSS3/Selectores/Selectores en CSS.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Z-Index en CSS.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Posicionamiento y Visualizacion en CSS.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Overflow - Desbordamiento en CSS.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Layout CSS - Diseño flotante y claro.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Display Inline - Block CSS.md",
+    "Curso Desarrollo Web/CSS3/Iconos/Iconos en CSS.md",
+    "Curso Desarrollo Web/CSS3/Height, Width and Max-width/Height, Width and Max-width and Margin.md",
+    "Curso Desarrollo Web/CSS3/Display CSS/Display en CSS.md",
+    "Curso Desarrollo Web/CSS3/Alineacion Horizontal y Vertical/Diseño CSS - Alineación horizontal y vertical.md",
+    "Full Stack Java Developer/Semana 4/Entrevistas.md",
+    "Full Stack Java Developer/Semana 4/04 de Abril de 2024.md",
     "Curso Desarrollo Web/CSS3/CSS3.md",
     "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
-    "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/extras/Pasted image 20240407231636.png",
-    "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/extras/Pasted image 20240407230628.png",
-    "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/extras/Pasted image 20240407230600.png",
-    "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/extras",
-    "Curso Desarrollo Web/CSS3/Selectores/Selectores en CSS.md",
-    "Curso Desarrollo Web/CSS3/PseudoClasesyElementos",
-    "Curso Desarrollo Web/CSS3/Selectores/extras/Pasted image 20240407223703.png",
-    "Curso Desarrollo Web/CSS3/Selectores/extras/Pasted image 20240407223641.png",
-    "Curso Desarrollo Web/CSS3/Selectores/extras/Pasted image 20240407223628.png",
-    "Curso Desarrollo Web/CSS3/Selectores/extras/Pasted image 20240407221401.png",
-    "Curso Desarrollo Web/CSS3/Selectores/extras/Pasted image 20240407221137.png",
-    "Curso Desarrollo Web/CSS3/Selectores/extras",
-    "Curso Desarrollo Web/CSS3/Selectores",
-    "Curso Desarrollo Web/CSS3/extras/Pasted image 20240407214047.png",
-    "Curso Desarrollo Web/CSS3/extras",
-    "Curso Desarrollo Web/CSS3/Alineacion Horizontal y Vertical/Diseño CSS - Alineación horizontal y vertical.md",
-    "Curso Desarrollo Web/CSS3/Alineacion Horizontal y Vertical/extras/Pasted image 20240407211710.png",
-    "Curso Desarrollo Web/CSS3/Alineacion Horizontal y Vertical/extras",
-    "Curso Desarrollo Web/CSS3/Alineacion Horizontal y Vertical",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Display Inline - Block CSS.md",
-    "Sin título.canvas",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Layout CSS - Diseño flotante y claro.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Z-Index en CSS.md",
-    "Curso Desarrollo Web/HTML5/HTML5.md",
-    "Curso Desarrollo Web/Indice.md",
-    "Full Stack Java Developer/Semana 4.md",
-    "Curso Desarrollo Web/CSS3/Box Model/Box Model.md",
-    "Curso Desarrollo Web/CSS3/Height, Width and Max-width/Height, Width and Max-width and Margin.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Overflow - Desbordamiento en CSS.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Posicionamiento y Visualizacion en CSS.md",
-    "Curso Desarrollo Web/CSS3/Display CSS/Display en CSS.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/extras",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos",
-    "Curso Desarrollo Web/CSS3/Height, Width and Max-width/extras",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Estilos/Estilos de Tabla.md",
-    "Curso Desarrollo Web/CSS3/Fuentes en CSS/Fuentes en CSS.md",
-    "Curso Desarrollo Web/CSS3/Formato de Texto/Texto en CSS.md",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas/Sintaxis de las Tablas.md",
-    "Curso Desarrollo Web/HTML5/Links en HTML/Links en HTML y CSS.md",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Tablas en HTML.md",
-    "Curso Desarrollo Web/CSS3/Iconos/Iconos en CSS.md",
-    "Curso Desarrollo Web/HTML5/Tablas en HTML/Atributos/Atributos colspan y rowspan.md",
+    "Curso Desarrollo Web/CSS3/Colores,  Bordes,  Margenes y Padding/Manejo de Colores, Bordes, Margenes y Padding en CSS.md",
     "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas"
   ]

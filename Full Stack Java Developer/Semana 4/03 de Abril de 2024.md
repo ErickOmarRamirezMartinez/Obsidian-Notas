@@ -1,8 +1,6 @@
 ![[Pasted image 20240403100055.png]]
-
 ![[Pasted image 20240403100234.png]]
 ![[Pasted image 20240403102426.png]]
-
 ![[Pasted image 20240403102447.png]]
 
 # Media Query
@@ -12,7 +10,6 @@ Una media query en CSS es una herramienta utilizada para aplicar estilos de form
 
 # Display Flex (FlexBox)
 ![[Pasted image 20240403105227.png]]
-
 ![[Pasted image 20240403122428.png]]
 
 [https://flexboxfroggy.com/#es](https://flexboxfroggy.com/#es "https://flexboxfroggy.com/#es")
@@ -20,9 +17,7 @@ Una media query en CSS es una herramienta utilizada para aplicar estilos de form
 # Display Grid
 ![[Pasted image 20240403132529.png]]
 
-
 [https://cssgridgarden.com/#es](https://cssgridgarden.com/#es "https://cssgridgarden.com/#es")
-
 
 ### Comparación y Elección
 

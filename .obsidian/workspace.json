@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "a8f42ce91373241d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03980097b5953a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,9 +167,15 @@
   },
   "active": "03ba2cd8501d8444",
   "lastOpenFiles": [
-    "Curso Desarrollo Web/CSS3/Tutorial/Height, Width and Max-width/Height, Width and Max-width and Margin.md",
     "Curso Desarrollo Web/CSS3/CSS3.md",
     "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+    "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoClases.md",
+    "Curso Desarrollo Web/CSS3/Tutorial/Alineacion Horizontal y Vertical/Diseño CSS - Alineación horizontal y vertical.md",
+    "Curso Desarrollo Web/CSS3/Responsive/Responsive en CSS.md",
+    "Curso Desarrollo Web/CSS3/Media Queries/Media Queries en CSS.md",
+    "Curso Desarrollo Web/CSS3/Grid Layout/Grid Layaout en CSS.md",
+    "Curso Desarrollo Web/CSS3/FlexBox/FlexBox en CSS.md",
+    "Curso Desarrollo Web/CSS3/Tutorial/Height, Width and Max-width/Height, Width and Max-width and Margin.md",
     "Pasted image 20240407214047.png.md",
     "Curso Desarrollo Web/Indice.md",
     "Curso Desarrollo Web/JavaScript.md",
@@ -162,7 +186,6 @@
     "Curso Desarrollo Web/CSS3/Tutorial/Selectores/extras/Pasted image 20240407223641.png",
     "Curso Desarrollo Web/CSS3/Tutorial/Selectores/extras/Pasted image 20240407223703.png",
     "Curso Desarrollo Web/CSS3/Tutorial/Gradiantes en CSS/Gradientes en CSS.md",
-    "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoClases.md",
     "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md",
     "Curso Desarrollo Web/CSS3/Tutorial",
     "Curso Desarrollo Web/CSS3/Grid Layout",
@@ -187,11 +210,6 @@
     "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoElementos.md",
     "Curso Desarrollo Web/CSS3/Tutorial/Iconos/Iconos en CSS.md",
     "Curso Desarrollo Web/CSS3/Height, Width and Max-width/Height, Width and Max-width.md",
-    "Curso Desarrollo Web/CSS3/Tutorial/Fuentes en CSS/Fuentes en CSS.md",
-    "Curso Desarrollo Web/CSS3/Tutorial/Formato de Texto/Texto en CSS.md",
-    "Curso Desarrollo Web/CSS3/Display CSS/Display en CSS.md",
-    "Curso Desarrollo Web/CSS3/Tutorial/Colores,  Bordes,  Margenes y Padding/Manejo de Colores, Bordes, Margenes y Padding en CSS.md",
-    "Curso Desarrollo Web/CSS3/Tutorial/Alineacion Horizontal y Vertical/Diseño CSS - Alineación horizontal y vertical.md",
     "Curso Desarrollo Web/CSS3/Tutorial/Gradiantes en CSS/extras",
     "Curso Desarrollo Web/CSS3/Tutorial/Gradiantes en CSS",
     "Full Stack Java Developer/Semana 5/extras",

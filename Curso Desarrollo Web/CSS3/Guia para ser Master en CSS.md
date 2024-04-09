@@ -44,12 +44,8 @@
     
     - Crear transiciones suaves entre estados de elemento.
     - Animaciones CSS: keyframes, duración, iteración.
-11. **Prácticas avanzadas y nuevas características**
-    
-    - Variables CSS.
-    - Filtros CSS, blend modes, y efectos de imagen.
-    - CSS para impresión.
-12. **Herramientas y Mejores Prácticas**
+
+11. **Herramientas y Mejores Prácticas**
     
     - Uso de preprocesadores CSS (SASS, LESS).
     - Metodologías CSS (BEM, OOCSS, SMACSS).

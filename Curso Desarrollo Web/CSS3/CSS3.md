@@ -1,5 +1,6 @@
 # Indice
 
+## Tutorial
 [[Manejo de Colores, Bordes, Margenes y Padding en CSS]]
 
 [[Height, Width and Max-width and Margin]]
@@ -29,3 +30,10 @@
 ---
 [[PseudoClases]]
 [[PseudoElementos]]
+
+---
+[[Efectos de Sombra]]
+[[Gradientes en CSS]]
+
+## Avanzado
+

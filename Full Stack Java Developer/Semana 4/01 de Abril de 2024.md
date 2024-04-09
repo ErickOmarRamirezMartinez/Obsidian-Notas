@@ -12,7 +12,6 @@
 
 [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML "https://developer.mozilla.org/es/docs/web/html")
 
-
 ```html
 <!DOCTYPE html>
 

@@ -161,7 +161,7 @@ El siguiente código garantiza que todos los elementos tengan un tamaño más in
 
 **Simplificación de cálculos de dimensiones**: Al aplicar `box-sizing: border-box;`, el ancho y alto de un elemento incluyen el padding y el borde, pero no el margen. Esto significa que, si estableces un elemento para que tenga un ancho de 100px y luego le añades un padding de 20px y un borde de 5px, el elemento seguirá teniendo un ancho total de 100px. Sin `box-sizing: border-box;`, el ancho final sería 150px (100px de ancho + 20px de padding a cada lado + 5px de borde a cada lado), lo que puede hacer que los cálculos de dimensiones sean más complejos y menos predecibles.
 
-Aplicar esto a todos los elementos es seguro y sabio:
+==***Aplicar esto a todos los elementos es seguro y sabio:***==
 
 ```css
 * {  

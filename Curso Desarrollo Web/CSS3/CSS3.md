@@ -18,7 +18,7 @@
 
 ---
 ### Posicionamiento
-[[Layout CSS - Diseño flotante y claro]]
+[[Float y Clear]]
 [[Overflow - Desbordamiento en CSS]]
 [[Posicionamiento y Visualizacion en CSS]]
 [[Z-Index en CSS]]

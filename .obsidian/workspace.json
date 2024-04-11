@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+                "file": "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/FlexBox/Flex Responsive.md",
-                "mode": "source",
+                "file": "Curso Desarrollo Web/CSS3/Grid Layout/Contenedor de cuadrícula CSS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "justi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+                "file": "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+                "file": "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md"
+                "file": "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md"
               }
             }
           }
@@ -167,29 +167,35 @@
   },
   "active": "03ba2cd8501d8444",
   "lastOpenFiles": [
-    "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md",
+    "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+    "Curso Desarrollo Web/CSS3/Flex Box y Grid Layout.md",
+    "Curso Desarrollo Web/CSS3/Grid Layout/Contenedor de cuadrícula CSS.md",
+    "Curso Desarrollo Web/CSS3/Grid Layout/Elementos de Cuadricula en Grid.md",
+    "Curso Desarrollo Web/CSS3/Grid Layout/extras/Pasted image 20240410222440.png",
+    "Curso Desarrollo Web/CSS3/Grid Layout/Grid Layaout en CSS.md",
+    "Curso Desarrollo Web/CSS3/Grid Layout/extras/Pasted image 20240410215639.png",
     "Curso Desarrollo Web/CSS3/FlexBox/FlexBox en CSS.md",
-    "Curso Desarrollo Web/CSS3/FlexBox/Flex Responsive.md",
     "Curso Desarrollo Web/CSS3/FlexBox/Flex Items.md",
-    "Curso Desarrollo Web/CSS3/FlexBox/extras/Pasted image 20240409222151.png",
-    "Curso Desarrollo Web/CSS3/FlexBox/extras/Pasted image 20240409222109.png",
-    "Curso Desarrollo Web/CSS3/FlexBox/extras/Pasted image 20240409222014.png",
-    "Curso Desarrollo Web/CSS3/FlexBox/extras/Pasted image 20240409221921.png",
-    "Curso Desarrollo Web/CSS3/FlexBox/extras/Pasted image 20240409221816.png",
-    "Curso Desarrollo Web/CSS3/FlexBox/extras/Pasted image 20240409220846.png",
-    "Curso Desarrollo Web/CSS3/FlexBox/extras/Pasted image 20240409220624.png",
-    "Curso Desarrollo Web/CSS3/FlexBox/extras/Pasted image 20240409220604.png",
-    "Curso Desarrollo Web/CSS3/FlexBox/extras/Pasted image 20240409220435.png",
-    "Curso Desarrollo Web/CSS3/FlexBox/extras/Pasted image 20240409220358.png",
+    "Curso Desarrollo Web/CSS3/FlexBox/Flex Responsive.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Posicionamiento y Visualizacion en CSS.md",
+    "Curso Desarrollo Web/CSS3/Grid Layout/extras/Pasted image 20240410211136.png",
+    "Curso Desarrollo Web/CSS3/Grid Layout/extras/Pasted image 20240410211046.png",
+    "Curso Desarrollo Web/CSS3/Grid Layout/extras/Pasted image 20240410210210.png",
+    "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 4/04 de Abril de 2024.md",
+    "Curso Desarrollo Web/CSS3/Grid Layout/extras/Pasted image 20240410202547.png",
+    "Curso Desarrollo Web/CSS3/Grid Layout/extras/Pasted image 20240410202253.png",
+    "Curso Desarrollo Web/CSS3/Grid Layout/extras/Pasted image 20240410201217.png",
+    "Curso Desarrollo Web/CSS3/Grid Layout/extras/Pasted image 20240410201030.png",
+    "Curso Desarrollo Web/CSS3/Grid Layout/extras/Pasted image 20240410200937.png",
+    "Curso Desarrollo Web/CSS3/Grid Layout/extras",
     "Curso Desarrollo Web/CSS3/FlexBox/extras",
     "Curso Desarrollo Web/CSS3/Tutorial/Selectores/Selectores en CSS.md",
     "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Float y Clear.md",
     "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Display Inline - Block CSS.md",
     "Curso Desarrollo Web/CSS3/Tutorial/Alineacion Horizontal y Vertical/Diseño CSS - Alineación horizontal y vertical.md",
     "Curso Desarrollo Web/CSS3/Display CSS/Display en CSS.md",
-    "Curso Desarrollo Web/CSS3/Grid Layout/Grid Layaout en CSS.md",
     "Curso Desarrollo Web/CSS3/CSS3.md",
-    "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
     "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoClases.md",
     "Curso Desarrollo Web/CSS3/Responsive/Responsive en CSS.md",
     "Curso Desarrollo Web/CSS3/Media Queries/Media Queries en CSS.md",
@@ -204,14 +210,8 @@
     "Curso Desarrollo Web/CSS3/FlexBox",
     "Curso Desarrollo Web/CSS3/Media Queries",
     "Curso Desarrollo Web/CSS3/Tutorial/ContExtra-Tutorial",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Overflow - Desbordamiento en CSS.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Z-Index en CSS.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Posicionamiento y Visualizacion en CSS.md",
-    "Full Stack Java Developer/Semana 4/01 de Abril de 2024.md",
     "Full Stack Java Developer/Semana 4/extras/EE-R - Best Practices Checklist - Writing your CV_vF.pdf",
-    "Curso Desarrollo Web/CSS3/Tutorial/Gradiantes en CSS/Efectos de Sombra.md",
     "Curso Desarrollo Web/CSS3/Tutorial/Gradiantes en CSS/extras",
-    "Curso Desarrollo Web/CSS3/Tutorial/Gradiantes en CSS",
     "Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas"

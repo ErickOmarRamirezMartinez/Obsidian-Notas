@@ -30,6 +30,8 @@
 
 [[Selectores en CSS]]
 
+[[Selectores de atributos CSS]]
+
 ---
 [[PseudoClases]]
 
@@ -47,6 +49,7 @@
 
 [[Grid Layaout en CSS]]
 
+[[Cuadricula RWD (Grid-View)]]
+
 [[Media Queries en CSS]]
 
-[[Responsive en CSS]]

@@ -47,9 +47,13 @@
 
 [[FlexBox en CSS]]
 
+
 [[Grid Layaout en CSS]]
 
-[[Cuadricula RWD (Grid-View)]]
+### Responsive
 
-[[Media Queries en CSS]]
+[[Cuadricula RWD (Grid-View)]]
+[[Imagenes con Responsive]]
+
+[[Media Queries]]
 

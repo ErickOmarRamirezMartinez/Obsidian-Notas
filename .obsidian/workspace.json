@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+                "file": "Curso Desarrollo Web/CSS3/CSS3.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+                "file": "Curso Desarrollo Web/CSS3/CSS3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+                "file": "Curso Desarrollo Web/CSS3/CSS3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md"
+                "file": "Curso Desarrollo Web/CSS3/CSS3.md"
               }
             }
           }
@@ -167,6 +167,8 @@
   },
   "active": "03ba2cd8501d8444",
   "lastOpenFiles": [
+    "Curso Desarrollo Web/CSS3/Flex Box y Grid Layout.md",
+    "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
     "Curso Desarrollo Web/CSS3/Media Queries/Media Queries.md",
     "Curso Desarrollo Web/CSS3/Responsive/Imagenes con Responsive.md",
     "Curso Desarrollo Web/CSS3/Responsive/extras/Pasted image 20240411234509.png",
@@ -191,8 +193,6 @@
     "Curso Desarrollo Web/CSS3/Selectores de Atributos",
     "Curso Desarrollo Web/CSS3/Sin título.md",
     "Curso Desarrollo Web/CSS3/Responsive/extras",
-    "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
-    "Curso Desarrollo Web/CSS3/Flex Box y Grid Layout.md",
     "Curso Desarrollo Web/CSS3/Grid Layout/Contenedor de cuadrícula CSS.md",
     "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md",
     "Curso Desarrollo Web/CSS3/Grid Layout/Elementos de Cuadricula en Grid.md",

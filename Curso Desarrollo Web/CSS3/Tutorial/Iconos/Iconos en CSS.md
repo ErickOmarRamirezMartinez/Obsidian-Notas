@@ -44,7 +44,7 @@ Incluya la hoja de estilo de las fuentes de los iconos, en su sitio web o a trav
 
 ```
 
-![[Pasted image 20240405213600.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Iconos/extras/Pasted image 20240405213600.png]]
 
 ---
 
@@ -74,7 +74,7 @@ Para usar los íconos de Google, agregue la siguiente línea dentro de la secci�
 <i class="material-icons" style="font-size:60px;color:lightblue;">cloud</i>
 ```
 
-![[Pasted image 20240405214054.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Iconos/extras/Pasted image 20240405214054.png]]
 
 
 
@@ -129,4 +129,4 @@ Alarma
 
 </html>
 ```
-![[Pasted image 20240405214608.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Iconos/extras/Pasted image 20240405214608.png]]

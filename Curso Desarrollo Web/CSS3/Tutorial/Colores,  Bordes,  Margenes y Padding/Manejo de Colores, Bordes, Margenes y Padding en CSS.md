@@ -1,4 +1,4 @@
-![[Pasted image 20240403222412.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Colores,  Bordes,  Margenes y Padding/extras/Pasted image 20240403222412.png]]
 
 # Colores
 ## Valores de color CSS
@@ -6,15 +6,15 @@
 En CSS, los colores también se pueden especificar mediante valores RGB, valores HEX, HSL valores, valores RGBA y valores HSLA:
 
 Igual que el nombre del color "Tomate":
-![[Pasted image 20240404220306.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Colores,  Bordes,  Margenes y Padding/extras/Pasted image 20240404220306.png]]
 Igual que el nombre del color "Tomate", pero 50% transparente:
-![[Pasted image 20240404220320.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Colores,  Bordes,  Margenes y Padding/extras/Pasted image 20240404220320.png]]
 
 ---
 
 # Manejo de Bordes
 
-![[Pasted image 20240404190304.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Colores,  Bordes,  Margenes y Padding/extras/Pasted image 20240404190304.png]]
 
 ```html
 <h1>Bordes en CSS</h1>
@@ -172,7 +172,7 @@ border-width: 10px 5px;
 }
 ```
 
-![[Pasted image 20240404192049.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Colores,  Bordes,  Margenes y Padding/extras/Pasted image 20240404192049.png]]
 
 
 ---
@@ -200,7 +200,7 @@ p.two {  border-style: solid;
 p.three {  border-style: dotted;  
   border-color: blue;}
 ```
-![[Pasted image 20240404193110.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Colores,  Bordes,  Margenes y Padding/extras/Pasted image 20240404193110.png]]
 
 
 

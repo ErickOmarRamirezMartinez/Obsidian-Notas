@@ -53,7 +53,7 @@ Cuando la propiedad se establece en "justify", cada línea es estirado de modo q
 ## Text Align Last
 La propiedad especifica cómo alinear la última línea de un texto.`text-align-last`
 
-![[Pasted image 20240404224316.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Formato de Texto/extras/Pasted image 20240404224316.png]]
 
 ---
 
@@ -82,7 +82,7 @@ h3 {  text-decoration-line: underline;}
   
 p {  text-decoration-line: overline underline;}
 ```
-![[Pasted image 20240404231440.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Formato de Texto/extras/Pasted image 20240404231440.png]]
 >**Nota:** No se recomienda subrayar el texto que no es un enlace, ya que esto a menudo confunde al lector.
 
 ## La propiedad abreviada
@@ -102,7 +102,7 @@ h3 {  text-decoration: underline red double;}
 p {  text-decoration: underline red double 5px;}
 ```
 
-![[Pasted image 20240404231409.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Formato de Texto/extras/Pasted image 20240404231409.png]]
 ##  *Un pequeño consejo*
 
 Todos los enlaces en HTML están subrayados de forma predeterminada. A veces Compruebe que los enlaces se diseñan sin subrayado. El se utiliza para eliminar el subrayado de los enlaces, Así:`text-decoration: none;`
@@ -128,7 +128,7 @@ p.lowercase {  text-transform: lowercase;}
 p.capitalize {  text-transform: capitalize;}
 ```
 
-![[Pasted image 20240404231314.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Formato de Texto/extras/Pasted image 20240404231314.png]]
 ---
 
 ## Espaciado de texto
@@ -148,7 +148,7 @@ La propiedad se utiliza para especificar la sangría de la primera línea de un 
 p {  text-indent: 50px;}
 ```
 
-![[Pasted image 20240404225823.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Formato de Texto/extras/Pasted image 20240404225823.png]]
 ## Espaciado entre letras
 
 La propiedad se utiliza para especificar el espacio entre los caracteres de un texto.`letter-spacing`
@@ -161,7 +161,7 @@ h1 {  letter-spacing: 5px;}
 h2 {  letter-spacing: -2px;}
 ```
 
-![[Pasted image 20240404225840.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Formato de Texto/extras/Pasted image 20240404225840.png]]
 
 ## Altura de la línea
 
@@ -172,7 +172,7 @@ p.small {  line-height: 0.8;}
   
 p.big {  line-height: 1.8;}
 ```
-![[Pasted image 20240404225923.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Formato de Texto/extras/Pasted image 20240404225923.png]]
 
 ## Espaciado entre palabras
 
@@ -186,7 +186,7 @@ p.one {  word-spacing: 10px;}
 p.two {  word-spacing: -2px;}
 ```
 
-![[Pasted image 20240404230043.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Formato de Texto/extras/Pasted image 20240404230043.png]]
 
 ---
 
@@ -201,4 +201,4 @@ En su uso más simple, solo se especifica la sombra horizontal (2px) y la sombra
 ```css
 h1 {  text-shadow: 2px 2px 5px red;}
 ```
-![[Pasted image 20240404230812.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Formato de Texto/extras/Pasted image 20240404230812.png]]

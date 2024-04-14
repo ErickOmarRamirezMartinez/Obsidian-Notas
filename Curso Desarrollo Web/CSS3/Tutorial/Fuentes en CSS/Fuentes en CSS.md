@@ -109,7 +109,7 @@ p.normal {  font-weight: normal;}
   
 p.thick {  font-weight: bold;}
 ```
-![[Pasted image 20240405204449.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Fuentes en CSS/extras/Pasted image 20240405204449.png]]
 
 ---
 
@@ -167,7 +167,7 @@ De esa manera, el tamaño del texto seguirá el tamaño de la ventana del navega
 <p>Viewport is the browser window size. 1vw = 1% of viewport width. If the viewport is 50cm wide, 1vw is 0.5cm.</p>
 ```
 
-![[Pasted image 20240405205955.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Fuentes en CSS/extras/Pasted image 20240405205955.png]]
 
 ---
 
@@ -189,7 +189,7 @@ body {  font-family: "Sofia", sans-serif;}
 </style>  
 </head>
 ```
-![[Pasted image 20240405210154.png]]
+![[Curso Desarrollo Web/CSS3/Tutorial/Fuentes en CSS/extras/Pasted image 20240405210154.png]]
 
 ---
 

@@ -8,31 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03ba2cd8501d8444",
+            "id": "76b33827634972ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/CSS3.md",
+                "file": "Curso Desarrollo Web/Pa hacer codigos bonitos.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a8f42ce91373241d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "03980097b5953a69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso Desarrollo Web/CSS3/Media Queries/Media Queries.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -87,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 300
   },
   "right": {
     "id": "fde6696123ab1c11",
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/CSS3.md",
+                "file": "Curso Desarrollo Web/Pa hacer codigos bonitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/CSS3.md",
+                "file": "Curso Desarrollo Web/Pa hacer codigos bonitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso Desarrollo Web/CSS3/CSS3.md"
+                "file": "Curso Desarrollo Web/Pa hacer codigos bonitos.md"
               }
             }
           }
@@ -165,53 +147,54 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "03ba2cd8501d8444",
+  "active": "76b33827634972ea",
   "lastOpenFiles": [
-    "Curso Desarrollo Web/CSS3/Flex Box y Grid Layout.md",
-    "Curso Desarrollo Web/CSS3/Guia para ser Master en CSS.md",
+    "Curso Desarrollo Web/JavaScript.md",
+    "Curso Desarrollo Web/Pa hacer codigos bonitos.md",
+    "Full Stack Java Developer/Semana 5/Loops 10 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 5/Arrays 10 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 5/11 de Abril de 2024.md",
     "Curso Desarrollo Web/CSS3/Media Queries/Media Queries.md",
-    "Curso Desarrollo Web/CSS3/Responsive/Imagenes con Responsive.md",
+    "Curso Desarrollo Web/CSS3/CSS3.md",
+    "Curso Desarrollo Web/Indice.md",
+    "Curso Desarrollo Web/CSS3/Selectores de Atributos/extras/Pasted image 20240411214601.png",
+    "Curso Desarrollo Web/CSS3/Selectores de Atributos/extras/Pasted image 20240411214248.png",
+    "Curso Desarrollo Web/CSS3/Selectores de Atributos/extras/Pasted image 20240411214112.png",
+    "Curso Desarrollo Web/CSS3/Selectores de Atributos/extras/Pasted image 20240411213709.png",
+    "Curso Desarrollo Web/CSS3/Selectores de Atributos/extras/Pasted image 20240411213211.png",
+    "Curso Desarrollo Web/CSS3/Selectores de Atributos/extras/Pasted image 20240411212812.png",
+    "Curso Desarrollo Web/CSS3/Selectores de Atributos/extras/Pasted image 20240411212256.png",
+    "Curso Desarrollo Web/CSS3/Selectores de Atributos/extras",
+    "Curso Desarrollo Web\\CSS3\\Selectores de Atributos\\extras",
+    "Curso Desarrollo Web/CSS3/Selectores de Atributos/Selectores de atributos CSS.md",
+    "Curso Desarrollo Web/CSS3/Selectores de Atributos",
+    "Curso Desarrollo Web\\CSS3\\Selectores de Atributos",
     "Curso Desarrollo Web/CSS3/Responsive/extras/Pasted image 20240411234509.png",
     "Curso Desarrollo Web/CSS3/Responsive/extras/Pasted image 20240411234445.png",
     "Curso Desarrollo Web/CSS3/Responsive/extras/Pasted image 20240411233417.png",
-    "Curso Desarrollo Web/CSS3/Responsive/extras/Pasted image 20240411233404.png",
-    "Curso Desarrollo Web/CSS3/Responsive/extras/Pasted image 20240411233104.png",
-    "Curso Desarrollo Web/CSS3/Responsive/extras/Pasted image 20240411233023.png",
-    "Curso Desarrollo Web/CSS3/Responsive/extras/Pasted image 20240411230956.png",
-    "Curso Desarrollo Web/CSS3/Responsive/extras/Pasted image 20240411230935.png",
-    "Curso Desarrollo Web/CSS3/Responsive/extras/Pasted image 20240411230917.png",
-    "Curso Desarrollo Web/CSS3/Responsive/Cuadricula RWD (Grid-View).md",
-    "Curso Desarrollo Web/CSS3/Media Queries",
-    "Curso Desarrollo Web/CSS3/Responsive/extras/Pasted image 20240411225530.png",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Overflow - Desbordamiento en CSS.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Posicionamiento y Visualizacion en CSS.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Float y Clear.md",
-    "Curso Desarrollo Web/CSS3/CSS3.md",
-    "Curso Desarrollo Web/CSS3/Selectores de Atributos/Selectores de atributos CSS.md",
-    "Curso Desarrollo Web/CSS3/Media Queries/Media Queries en CSS.md",
-    "Curso Desarrollo Web/CSS3/Selectores de Atributos/extras",
-    "Curso Desarrollo Web/CSS3/Selectores de Atributos",
-    "Curso Desarrollo Web/CSS3/Sin título.md",
     "Curso Desarrollo Web/CSS3/Responsive/extras",
-    "Curso Desarrollo Web/CSS3/Grid Layout/Contenedor de cuadrícula CSS.md",
-    "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md",
+    "Curso Desarrollo Web\\CSS3\\Responsive\\extras",
+    "Curso Desarrollo Web/CSS3/Responsive/Imagenes con Responsive.md",
+    "Curso Desarrollo Web/CSS3/Responsive/Cuadricula RWD (Grid-View).md",
+    "Curso Desarrollo Web\\CSS3\\Responsive",
+    "Curso Desarrollo Web\\CSS3\\Media Queries",
+    "Curso Desarrollo Web\\CSS3",
+    "Curso Desarrollo Web/Diseño Responsivo/Diseño Responsivo.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Float y Clear.md",
+    "Curso Desarrollo Web\\CSS3\\Posicionamiento de Elementos",
     "Curso Desarrollo Web/CSS3/Grid Layout/Elementos de Cuadricula en Grid.md",
-    "Curso Desarrollo Web/CSS3/Grid Layout/Grid Layaout en CSS.md",
-    "Curso Desarrollo Web/CSS3/FlexBox/FlexBox en CSS.md",
-    "Curso Desarrollo Web/CSS3/FlexBox/Flex Items.md",
+    "Curso Desarrollo Web/CSS3/Grid Layout/Contenedor de cuadrícula CSS.md",
     "Curso Desarrollo Web/CSS3/FlexBox/Flex Responsive.md",
-    "Full Stack Java Developer/Semana 4/04 de Abril de 2024.md",
-    "Curso Desarrollo Web/CSS3/Grid Layout/extras",
-    "Curso Desarrollo Web/CSS3/FlexBox/extras",
-    "Curso Desarrollo Web/CSS3/Tutorial/Selectores/Selectores en CSS.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Display Inline - Block CSS.md",
-    "Curso Desarrollo Web/CSS3/Tutorial/Alineacion Horizontal y Vertical/Diseño CSS - Alineación horizontal y vertical.md",
-    "Curso Desarrollo Web/CSS3/Display CSS/Display en CSS.md",
+    "Curso Desarrollo Web/CSS3/FlexBox/Flex Items.md",
+    "Curso Desarrollo Web/CSS3/Flex Box y Grid Layout.md",
+    "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoElementos.md",
     "Curso Desarrollo Web/CSS3/PseudoClasesyElementos/PseudoClases.md",
-    "Curso Desarrollo Web/CSS3/Tutorial",
-    "Curso Desarrollo Web/CSS3/Grid Layout",
-    "Curso Desarrollo Web/CSS3/Responsive",
-    "Curso Desarrollo Web/CSS3/FlexBox",
+    "Full Stack Java Developer/Semana 5/09 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 4.md",
+    "Full Stack Java Developer/Semana 5/08 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 4/05 de Abril de 2024.md",
+    "Curso Desarrollo Web/CSS3/Tutorial/Selectores/Selectores en CSS.md",
+    "Curso Desarrollo Web/CSS3/Tutorial/Iconos/Iconos en CSS.md",
     "Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas"

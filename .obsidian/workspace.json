@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Java Developer/Semana 6/DOM - 15 de Abril de 2024.md",
+                "file": "Full Stack Java Developer/Semana 6/16 de Abril de 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack Java Developer/Semana 6/DOM - 15 de Abril de 2024.md",
+                "file": "Full Stack Java Developer/Semana 6/16 de Abril de 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack Java Developer/Semana 6/DOM - 15 de Abril de 2024.md",
+                "file": "Full Stack Java Developer/Semana 6/16 de Abril de 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack Java Developer/Semana 6/DOM - 15 de Abril de 2024.md"
+                "file": "Full Stack Java Developer/Semana 6/16 de Abril de 2024.md"
               }
             }
           }
@@ -149,6 +149,35 @@
   },
   "active": "76b33827634972ea",
   "lastOpenFiles": [
+    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416164549.png",
+    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416164341.png",
+    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416164239.png",
+    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416164233.png",
+    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416164051.png",
+    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416163838.png",
+    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416163456.png",
+    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416153915.png",
+    "Full Stack Java Developer/Semana 6/16 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416161551.png",
+    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416153721.png",
+    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416153601.png",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Añadiendo imagenes en HTML.md",
+    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Estructurar el codigo en HTML.md",
+    "Curso Desarrollo Web/CSS3/Media Queries/Media Queries.md",
+    "Curso Desarrollo Web/CSS3/Media Queries/Media Queries en CSS.md",
+    "Curso Desarrollo Web/CSS3/Responsive/Cuadricula RWD (Grid-View).md",
+    "Curso Desarrollo Web/CSS3/Responsive/Imagenes con Responsive.md",
+    "Curso Desarrollo Web/CSS3/Responsive/Responsive en CSS.md",
+    "Full Stack Java Developer/Semana 6/INGLES.md",
+    "Full Stack Java Developer/Semana 6/DOM parte 2.md",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Metodos de Formulario.md",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Otros Tipos de _input_.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Layout CSS - Diseño flotante y claro.md",
+    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Posicionamiento y Visualizacion en CSS.md",
+    "Curso Desarrollo Web/CSS3/Tutorial/Alineacion Horizontal y Vertical/Diseño CSS - Alineación horizontal y vertical.md",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Introduccion a Formularios.md",
+    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Formulario HTML.md",
+    "Full Stack Java Developer/Semana 6/DOM - 15 de Abril de 2024.md",
     "Full Stack Java Developer\\Semana 5\\extras",
     "Full Stack Java Developer\\Semana 5",
     "Full Stack Java Developer\\Semana 4",
@@ -159,20 +188,6 @@
     "Curso Desarrollo Web\\CSS3\\Tutorial\\Fuentes en CSS",
     "Curso Desarrollo Web\\CSS3\\Tutorial\\Fuentes en CSS 1\\extras",
     "Curso Desarrollo Web\\CSS3\\Tutorial\\Fuentes en CSS 1",
-    "Curso Desarrollo Web\\CSS3\\Tutorial\\Formato de Texto",
-    "Full Stack Java Developer/Semana 6/DOM parte 2.md",
-    "Full Stack Java Developer/Semana 6/DOM - 15 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 6/INGLES.md",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240415171131.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240415171036.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240415171021.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240415170923.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240415170822.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240415170739.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240415170637.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240415170627.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240415170614.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240415170608.png",
     "Curso Desarrollo Web/CSS3/FlexBox/Flex Items.md",
     "Curso Desarrollo Web/CSS3/FlexBox/FlexBox en CSS.md",
     "Curso Desarrollo Web/Indice.md",
@@ -180,21 +195,6 @@
     "Curso Desarrollo Web/Pa hacer codigos bonitos.md",
     "Full Stack Java Developer/Semana 5/08 de Abril de 2024.md",
     "Full Stack Java Developer/Semana 5/09 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 5/11 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 5/Arrays 10 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 4.md",
-    "Full Stack Java Developer/Semana 5/Loops 10 de Abril de 2024.md",
-    "Curso Desarrollo Web/CSS3/Media Queries/Media Queries.md",
-    "Curso Desarrollo Web/CSS3/CSS3.md",
-    "Curso Desarrollo Web/CSS3/Selectores de Atributos/Selectores de atributos CSS.md",
-    "Curso Desarrollo Web/CSS3/Responsive/Imagenes con Responsive.md",
-    "Curso Desarrollo Web/CSS3/Responsive/Cuadricula RWD (Grid-View).md",
-    "Curso Desarrollo Web/Diseño Responsivo/Diseño Responsivo.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Float y Clear.md",
-    "Curso Desarrollo Web/CSS3/Grid Layout/Elementos de Cuadricula en Grid.md",
-    "Curso Desarrollo Web/CSS3/Grid Layout/Contenedor de cuadrícula CSS.md",
-    "Curso Desarrollo Web/CSS3/FlexBox/Flex Responsive.md",
-    "Curso Desarrollo Web/CSS3/Flex Box y Grid Layout.md",
     "Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas"

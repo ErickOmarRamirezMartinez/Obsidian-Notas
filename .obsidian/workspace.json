@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Java Developer/Semana 6/16 de Abril de 2024.md",
+                "file": "Curso Desarrollo Web/Diseño UX-UI/Taller Figma.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "fde6696123ab1c11",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack Java Developer/Semana 6/16 de Abril de 2024.md",
+                "file": "Curso Desarrollo Web/Diseño UX-UI/Taller Figma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack Java Developer/Semana 6/16 de Abril de 2024.md",
+                "file": "Curso Desarrollo Web/Diseño UX-UI/Taller Figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack Java Developer/Semana 6/16 de Abril de 2024.md"
+                "file": "Curso Desarrollo Web/Diseño UX-UI/Taller Figma.md"
               }
             }
           }
@@ -149,52 +149,52 @@
   },
   "active": "76b33827634972ea",
   "lastOpenFiles": [
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416164549.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416164341.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416164239.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416164233.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416164051.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416163838.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416163456.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416153915.png",
-    "Full Stack Java Developer/Semana 6/16 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416161551.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416153721.png",
-    "Full Stack Java Developer/Semana 6/extras/Pasted image 20240416153601.png",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Añadiendo imagenes en HTML.md",
-    "Curso Desarrollo Web/Sitio Freelancer con HTML/HTML Basic/Estructurar el codigo en HTML.md",
-    "Curso Desarrollo Web/CSS3/Media Queries/Media Queries.md",
-    "Curso Desarrollo Web/CSS3/Media Queries/Media Queries en CSS.md",
-    "Curso Desarrollo Web/CSS3/Responsive/Cuadricula RWD (Grid-View).md",
-    "Curso Desarrollo Web/CSS3/Responsive/Imagenes con Responsive.md",
-    "Curso Desarrollo Web/CSS3/Responsive/Responsive en CSS.md",
-    "Full Stack Java Developer/Semana 6/INGLES.md",
-    "Full Stack Java Developer/Semana 6/DOM parte 2.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Metodos de Formulario.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Otros Tipos de _input_.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Layout CSS - Diseño flotante y claro.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Posicionamiento y Visualizacion en CSS.md",
-    "Curso Desarrollo Web/CSS3/Tutorial/Alineacion Horizontal y Vertical/Diseño CSS - Alineación horizontal y vertical.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Introduccion a Formularios.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Formulario HTML.md",
-    "Full Stack Java Developer/Semana 6/DOM - 15 de Abril de 2024.md",
-    "Full Stack Java Developer\\Semana 5\\extras",
-    "Full Stack Java Developer\\Semana 5",
-    "Full Stack Java Developer\\Semana 4",
-    "Curso Desarrollo Web\\Diseño Responsivo",
-    "Curso Desarrollo Web\\CSS3\\Tutorial\\Iconos",
-    "Curso Desarrollo Web\\CSS3\\Tutorial\\Iconos 1\\extras",
-    "Curso Desarrollo Web\\CSS3\\Tutorial\\Iconos 1",
-    "Curso Desarrollo Web\\CSS3\\Tutorial\\Fuentes en CSS",
-    "Curso Desarrollo Web\\CSS3\\Tutorial\\Fuentes en CSS 1\\extras",
-    "Curso Desarrollo Web\\CSS3\\Tutorial\\Fuentes en CSS 1",
-    "Curso Desarrollo Web/CSS3/FlexBox/Flex Items.md",
-    "Curso Desarrollo Web/CSS3/FlexBox/FlexBox en CSS.md",
-    "Curso Desarrollo Web/Indice.md",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/Pasted image 20240419231054.png",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/Pasted image 20240419231047.png",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/Pasted image 20240419231041.png",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/Pasted image 20240419231034.png",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/Pasted image 20240419231027.png",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/Pasted image 20240419231020.png",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/Pasted image 20240419230845.png",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/Pasted image 20240419230839.png",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/GWhNUIX1TCiBdU6O1sAQ_14. Creando interacciones en Figma (1).pdf",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/GWhNUIX1TCiBdU6O1sAQ_14. Creando interacciones en Figma.pdf",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/Pasted image 20240419215144.png",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/Pasted image 20240419214956.png",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/Pasted image 20240419214859.png",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/IzrWwbnaTUK5xSuAYId6_10. Atomic Desing.pdf",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/utxGwD93SEyEy5nd6nSm_9. AutoLayout.pdf",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/HLKjiRnaS2qPkGSNIy46_Incorporar elementos mediante Plugins.pdf",
+    "Curso Desarrollo Web/Diseño UX-UI/extras/dBXtHKnR4uHHS30h9D1D_Crear_elementos_básicos_de_diseño_de_interfaz.pdf",
+    "Curso Desarrollo Web/Diseño UX-UI/extras",
+    "Curso Desarrollo Web/JavaScript/Pruebas Unitarias con JEST.md",
+    "Curso Desarrollo Web/Diseño UX-UI/Taller Figma.md",
+    "Curso Desarrollo Web/Diseño UX-UI",
+    "Full Stack Java Developer/Semana 6/19 de Abril de 2024 - TDD con JEST.md",
+    "Full Stack Java Developer/Semana 6/18 de Abril de 2024 - npm.md",
+    "Curso Desarrollo Web/Node.JS/Axios 18 de Abril de 2024 1.md",
+    "Curso Desarrollo Web/Node.JS/18 de Abril de 2024 - npm 1.md",
+    "Full Stack Java Developer/Semana 6/Axios 18 de Abril de 2024.md",
+    "Curso Desarrollo Web/Recursos Informaticos.md",
+    "Full Stack Java Developer/Semana 4.md",
+    "Full Stack Java Developer/Semana 5.md",
+    "Curso Desarrollo Web/Node.JS",
+    "Curso Desarrollo Web/JavaScript/17 de Abril de 2024 POO 1.md",
+    "Full Stack Java Developer/Semana 6/17 de Abril de 2024 POO.md",
+    "Full Stack Java Developer/Semana 6/Pendientes.md",
+    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/16 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/17 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/DOM parte 2.md",
+    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/DOM - 15 de Abril de 2024.md",
+    "Curso Desarrollo Web/APIs/API´s y FETCH.md",
+    "Curso Desarrollo Web/JavaScript/Local Storage Template.md",
+    "Curso Desarrollo Web/JavaScript/DOM/DOM parte 2.md",
+    "Curso Desarrollo Web/JavaScript/DOM/DOM.md",
     "Curso Desarrollo Web/JavaScript.md",
-    "Curso Desarrollo Web/Pa hacer codigos bonitos.md",
-    "Full Stack Java Developer/Semana 5/08 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 5/09 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 4/01 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 4/03 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 4/04 de Abril de 2024.md",
+    "Curso Desarrollo Web/JavaScript/DOM",
     "Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas"

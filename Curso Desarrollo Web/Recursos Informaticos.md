@@ -19,3 +19,20 @@ https://www.coursera.org/professional-certificates/diseno-de-experiencia-del-usu
 https://www.1024tera.com/spanish/sharing/link?surl=x9uV2tVR3yVlymUp_EOsWw&path=%2FEdteam%20Cursos
 
 [https://www.occ.com.mx/](https://www.occ.com.mx/ "https://www.occ.com.mx/")
+
+
+Por si alguien va a usar React para el proyecto o en el futuro -> https://technostacks.com/blog/react-best-practices/ 
+
+---
+Bootcamp
+https://www.oracle.com/mx/education/oracle-next-education/
+
+---
+https://devdocs.io/
+
+
+---
+
+[https://source.unsplash.com/random?wallpapers](https://source.unsplash.com/random?wallpapers "https://source.unsplash.com/random?wallpapers")
+
+![[Pasted image 20240424142126.png]]

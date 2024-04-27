@@ -47,7 +47,9 @@ Figma es una herramienta de diseño colaborativa en línea que ofrece varios ben
 
 ---
 
-![[dBXtHKnR4uHHS30h9D1D_Crear_elementos_básicos_de_diseño_de_interfaz.pdf]]![[HLKjiRnaS2qPkGSNIy46_Incorporar elementos mediante Plugins.pdf]]![[utxGwD93SEyEy5nd6nSm_9. AutoLayout.pdf]]![[IzrWwbnaTUK5xSuAYId6_10. Atomic Desing.pdf]]
+![[dBXtHKnR4uHHS30h9D1D_Crear_elementos_básicos_de_diseño_de_interfaz.pdf]]![[HLKjiRnaS2qPkGSNIy46_Incorporar elementos mediante Plugins.pdf]]![[utxGwD93SEyEy5nd6nSm_9. AutoLayout.pdf]]
+## Atomic Design
+![[IzrWwbnaTUK5xSuAYId6_10. Atomic Desing.pdf]]
 ---
 
 ![[Pasted image 20240419214800.png]]

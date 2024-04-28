@@ -1,7 +1,9 @@
+[[Guia para ser Master en CSS]]
 # Tutorial
 [[Manejo de Colores, Bordes, Margenes y Padding en CSS]]
 
 [[Height, Width and Max-width and Margin]]
+
 
 ---
 
@@ -46,9 +48,12 @@
 # Avanzado
 
 [[FlexBox en CSS]]
+[[Flex Responsive]]
 
 
 [[Grid Layaout en CSS]]
+[[Elementos de Cuadricula en Grid]]
+[[Contenedor de cuadrícula CSS]]
 
 ### Responsive
 
@@ -57,3 +62,5 @@
 
 [[Media Queries]]
 
+## Boostrap 
+[[Introduccion a Bootstrap]]

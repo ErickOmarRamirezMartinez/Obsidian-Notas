@@ -4,4 +4,4 @@
 
 [[Metodos de Formulario]]
 
-[[Otros Tipos de <input>]]
+[[Otros Tipos de _input_]]

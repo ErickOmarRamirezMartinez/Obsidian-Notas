@@ -34,5 +34,3 @@ https://devdocs.io/
 ---
 
 [https://source.unsplash.com/random?wallpapers](https://source.unsplash.com/random?wallpapers "https://source.unsplash.com/random?wallpapers")
-
-![[Pasted image 20240424142126.png]]

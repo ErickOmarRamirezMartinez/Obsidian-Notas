@@ -11,8 +11,12 @@
             "id": "814afc195d670695",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Full Stack Java Developer/Semana 8/03 de Abril de 2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Full Stack Java Developer/Semana 8/03 de Abril de 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Full Stack Java Developer/Semana 8/03 de Abril de 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Full Stack Java Developer/Semana 8/03 de Abril de 2024.md"
+              }
             }
           }
         ]
@@ -154,32 +162,43 @@
   },
   "active": "814afc195d670695",
   "lastOpenFiles": [
-    "Curso Desarrollo Web/JavaScript/JavaScript.md",
+    "Full Stack Java Developer/Semana 8/02 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 8/03 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 8/extras/Pasted image 20240503102230.png",
     "Curso Desarrollo Web/Node.JS/AXIOS.md",
+    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/17 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/16 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/DOM - 15 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 8/extras/Pasted image 20240503102122.png",
+    "Full Stack Java Developer/Semana 8/extras/Pasted image 20240503101519.png",
+    "Full Stack Java Developer/Semana 8/extras/Pasted image 20240503101247.png",
+    "Full Stack Java Developer/Semana 8/extras/Pasted image 20240503101148.png",
+    "Full Stack Java Developer/Semana 8/extras/Pasted image 20240503101052.png",
+    "Full Stack Java Developer/Semana 8/extras/Pasted image 20240503101028.png",
+    "Full Stack Java Developer/Semana 5/Loops 10 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 5/Arrays 10 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 5/09 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 5/11 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 8/extras/Pasted image 20240502163739.png",
+    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/DOM parte 2.md",
+    "Full Stack Java Developer/Semana 6/Axios 18 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 6/19 de Abril de 2024 - TDD con JEST.md",
+    "Full Stack Java Developer/Semana 6/18 de Abril de 2024 - npm.md",
+    "Full Stack Java Developer/Semana 6/17 de Abril de 2024 POO.md",
+    "Full Stack Java Developer/Semana 8/extras/Imagen de WhatsApp 2024-05-02 a las 14.01.57_33ef7492.jpg",
+    "Full Stack Java Developer/Semana 8/extras/Pasted image 20240502140046.png",
+    "Full Stack Java Developer/Semana 8/30 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 8/Reclutamiento.md",
+    "Full Stack Java Developer/Semana 7/24 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 7/26 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 7/REACT 22 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 8/JAVA.md",
+    "Full Stack Java Developer/Semana 8/29 de Abril de 2024.md",
+    "Full Stack Java Developer/Semana 8/extras",
+    "Full Stack Java Developer/Semana 8",
+    "Curso Desarrollo Web/JavaScript/JavaScript.md",
     "Curso Desarrollo Web/Node.JS/Introduccion a NPM.md",
     "Curso Desarrollo Web/Node.JS/NPM.md",
-    "Curso Desarrollo Web/Node.JS/NODE JS.md",
-    "Curso Desarrollo Web/Node.JS/Axios 18 de Abril de 2024 1.md",
-    "Curso Desarrollo Web/CSS3/CSS3.md",
-    "Curso Desarrollo Web/APIs/API´s y FETCH.md",
-    "Curso Desarrollo Web/CSS3/Responsive/Responsive en CSS.md",
-    "Curso Desarrollo Web/Indice.md",
-    "Curso Desarrollo Web/CSS3/Posicionamiento de Elementos/Layout CSS - Diseño flotante y claro.md",
-    "Curso Desarrollo Web/CSS3/Tutorial/Height, Width and Max-width/Height, Width and Max-width and Margin.md",
-    "Curso Desarrollo Web/CSS3/Tutorial/Alineacion Horizontal y Vertical/Diseño CSS - Alineación horizontal y vertical.md",
-    "Curso Desarrollo Web/CSS3/Tutorial/Formato de Texto 1/Texto en CSS.md",
-    "Curso Desarrollo Web/HTML5/HTML5.md",
-    "Curso Desarrollo Web/CSS3/Grid Layout/Elementos de Cuadricula en Grid.md",
-    "Curso Desarrollo Web/HTML5/Formularios/Formularios en HTML/Otros Tipos de _input_.md",
-    "Curso Desarrollo Web/Diseño Responsivo/Diseño Responsivo.md",
-    "Curso Desarrollo Web/Diseño UX-UI/Diseño Responsivo/Diseño Responsivo.md",
-    "Curso Desarrollo Web/Diseño UX-UI/Diseño Responsivo 1/Diseño Responsivo.md",
-    "Full Stack Java Developer/Semana 4/Introduccion a Bootstrap.md",
-    "Curso Desarrollo Web/CSS3/Media Queries/Media Queries.md",
-    "Curso Desarrollo Web/CSS3/Media Queries/Media Queries en CSS.md",
-    "Curso Desarrollo Web/CSS3/FlexBox/Flex Items.md",
-    "Curso Desarrollo Web/REACT/REACT.md",
-    "Curso Desarrollo Web/CSS3/FlexBox/Flex Responsive.md",
     "Full Stack Java Developer\\Semana 6",
     "Full Stack Java Developer\\Semana 4",
     "Curso Desarrollo Web\\Sitio Freelancer con HTML\\HTML Basic",
@@ -188,18 +207,6 @@
     "Curso Desarrollo Web/REACT",
     "Curso Desarrollo Web\\REACT",
     "Curso Desarrollo Web\\Node.JS",
-    "Curso Desarrollo Web\\JavaScript",
-    "Curso Desarrollo Web\\JavaScript\\DOM",
-    "Full Stack Java Developer/Semana 7/extras/Pasted image 20240426130815.png",
-    "Full Stack Java Developer/Semana 7/extras/Pasted image 20240426130659.png",
-    "Full Stack Java Developer/Semana 7/extras/Pasted image 20240426130339.png",
-    "Full Stack Java Developer/Semana 7/extras/Pasted image 20240426130101.png",
-    "Full Stack Java Developer/Semana 7/extras/Pasted image 20240426125857.png",
-    "Full Stack Java Developer/Semana 7/extras/Pasted image 20240426125744.png",
-    "Full Stack Java Developer/Semana 7/extras/Pasted image 20240426120234.png",
-    "Full Stack Java Developer/Semana 7/extras/Pasted image 20240426120139.png",
-    "Full Stack Java Developer/Semana 7/extras/Pasted image 20240426105518.png",
-    "Full Stack Java Developer/Semana 7/extras/Pasted image 20240426105009.png",
     "Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas"

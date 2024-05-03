@@ -22,7 +22,7 @@
 
 ---
 # Java
-[[JAVA]]
+[[Curso Desarrollo Web/Java/JAVA]]
 # JavaScript
 [[Curso Desarrollo Web/JavaScript|JavaScript]]
 

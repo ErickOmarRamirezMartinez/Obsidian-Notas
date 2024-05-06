@@ -214,4 +214,38 @@ System.out.println(edades);
 
 ## Hash Map
 Almacena elementos en pares (Key/value) y se puede acceder a ellos mediante index. No es ordenado y permite datos duplicados
+```java
+public static void main(String[] args) {
 
+/*------------Hash Map------------------*/
+
+HashMap<Integer, String> nombreCompleto = new HashMap<>();
+
+//Metodo para agregar pares .put();
+
+nombreCompleto.put(36, "Daniel Maldonado");
+
+nombreCompleto.put(12, "Gabi Cortes");
+
+nombreCompleto.put(22, "Fer Ramos");
+
+nombreCompleto.put(36, "Daniel Maldonado");
+
+System.out.println(nombreCompleto);
+
+//Recorrer un HashMap
+
+//Vamos a implementar un metodo de la interfaz Map que se llama Entry
+
+for (Map.Entry<Integer, String> nombre : nombreCompleto.entrySet()) {
+
+System.out.println("Id: "+nombre.getKey() +" Nombre Completo: "+nombre.getValue());
+
+}
+
+}
+```
+
+
+---
+![[Pasted image 20240503134403.png]]![[Pasted image 20240503134557.png]]

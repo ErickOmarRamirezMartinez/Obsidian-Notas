@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Java Developer/Semana 9/06-05-2024/06-05-2024 Busqueda de Empleo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4d8a956910de525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso Desarrollo Web/Node.JS/AXIOS.md",
+                "file": "Full Stack Java Developer/Semana 10/14 de Mayo de 2024 BBD.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#news",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 240.5
   },
   "right": {
     "id": "fde6696123ab1c11",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack Java Developer/Semana 9/06-05-2024/06-05-2024 Busqueda de Empleo.md",
+                "file": "Full Stack Java Developer/Semana 10/14 de Mayo de 2024 BBD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack Java Developer/Semana 9/06-05-2024/06-05-2024 Busqueda de Empleo.md",
+                "file": "Full Stack Java Developer/Semana 10/14 de Mayo de 2024 BBD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack Java Developer/Semana 9/06-05-2024/06-05-2024 Busqueda de Empleo.md"
+                "file": "Full Stack Java Developer/Semana 10/14 de Mayo de 2024 BBD.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,52 +151,52 @@
   },
   "active": "814afc195d670695",
   "lastOpenFiles": [
-    "Full Stack Java Developer/Semana 9/06-05-2024/extras/Pasted image 20240506160756.png",
-    "Full Stack Java Developer/Semana 9/06-05-2024/extras/Pasted image 20240506160332.png",
-    "Full Stack Java Developer/Semana 9/06-05-2024/extras/Pasted image 20240506154806.png",
-    "Full Stack Java Developer/Semana 9/06-05-2024/extras/Pasted image 20240506154607.png",
-    "Full Stack Java Developer/Semana 9/06-05-2024/extras/Pasted image 20240506154353.png",
-    "Full Stack Java Developer/Semana 9/06-05-2024/extras/Pasted image 20240506154239.png",
-    "Full Stack Java Developer/Semana 9/06-05-2024/extras",
-    "Full Stack Java Developer/Semana 9/06-05-2024",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240514123957.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240514123935.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240514123915.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240514123902.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240514123646.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240514123413.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240514123211.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240514122840.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240514122832.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240514121810.png",
+    "Full Stack Java Developer/Semana 10/14 de Marzo de 2024 JV.md",
+    "Full Stack Java Developer/Semana 10/14 de Mayo de 2024 BBD.md",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240514100446.png",
+    "Full Stack Java Developer/Semana 10/13 de Mayo de 2024 Hilos Java.md",
+    "Full Stack Java Developer/Semana 10/extras",
+    "Curso Desarrollo Web/JavaScript.md",
+    "Full Stack Java Developer/Semana 10",
+    "Curso Desarrollo Web/JavaScript/Pruebas Unitarias con JEST.md",
+    "Curso Desarrollo Web/JavaScript/Local Storage Template.md",
+    "Curso Desarrollo Web/JavaScript/JavaScript.md",
+    "Full Stack Java Developer/Semana 9/09 de Mayo de 2025 Polimorfismo y Herencia.md",
+    "Full Stack Java Developer/Semana 9/07 De Mayo de 2024 POO 2.md",
+    "Full Stack Java Developer/Semana 9/06-05-2024/06 de Mayo de 2024 POO.md",
+    "Full Stack Java Developer/Semana 9/Retroalimentacion.md",
     "Full Stack Java Developer/Semana 9/06-05-2024/Revision de Codigo de Otros 06-05-24.md",
     "Full Stack Java Developer/Semana 9/06-05-2024/06-05-2024 Busqueda de Empleo.md",
-    "Full Stack Java Developer/Semana 9/extras/Pasted image 20240506135404.png",
-    "Full Stack Java Developer/Semana 9/extras/Pasted image 20240506135312.png",
-    "Full Stack Java Developer/Semana 9/extras/Pasted image 20240506135301.png",
-    "Full Stack Java Developer/Semana 9/extras/Pasted image 20240506135243.png",
-    "Full Stack Java Developer/Semana 9/extras/Pasted image 20240506135220.png",
-    "Full Stack Java Developer/Semana 9/06-05-2024/06 de Mayo de 2024 POO.md",
-    "Full Stack Java Developer/Semana 9/extras",
+    "Curso Desarrollo Web/REACT/Introduccion.md",
+    "Curso Desarrollo Web/REACT/Componentes.md",
+    "Curso Desarrollo Web/REACT/Router y Hooks.md",
+    "Curso Desarrollo Web/REACT/REACT.md",
+    "Curso Desarrollo Web/Node.JS/NODE JS.md",
+    "Curso Desarrollo Web/Node.JS/Introduccion a NPM.md",
+    "Curso Desarrollo Web/Node.JS/AXIOS.md",
+    "Full Stack Java Developer/Semana 9/07 de Mayo de 2024.md",
     "Full Stack Java Developer/Semana 8/JAVA.md",
-    "Full Stack Java Developer/Semana 9",
     "Full Stack Java Developer/Semana 8/30 de Abril de 2024.md",
     "Full Stack Java Developer/Semana 8/29 de Abril de 2024.md",
     "Full Stack Java Developer/Semana 8/03 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 8/02 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 7/REACT 22 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 7/26 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 7/24 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 7/23 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 7/22 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 6/Axios 18 de Abril de 2024.md",
-    "Curso Desarrollo Web/Node.JS/AXIOS.md",
-    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/17 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/16 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/DOM - 15 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 5/Loops 10 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 5/Arrays 10 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 5/09 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 5/11 de Abril de 2024.md",
-    "Full Stack Java Developer/Semana 6/Fetch API - DOM - LocalStorage/DOM parte 2.md",
-    "Full Stack Java Developer/Semana 6/19 de Abril de 2024 - TDD con JEST.md",
-    "Full Stack Java Developer/Semana 6/18 de Abril de 2024 - npm.md",
+    "Full Stack Java Developer/Semana 9/06-05-2024/extras",
+    "Full Stack Java Developer/Semana 9/06-05-2024",
+    "Full Stack Java Developer/Semana 9/extras",
+    "Full Stack Java Developer/Semana 9",
     "Full Stack Java Developer/Semana 8/extras",
     "Full Stack Java Developer/Semana 8",
     "Full Stack Java Developer\\Semana 6",
     "Full Stack Java Developer\\Semana 4",
-    "Curso Desarrollo Web\\Sitio Freelancer con HTML\\HTML Basic",
-    "Curso Desarrollo Web\\Sitio Freelancer con HTML",
     "Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas"

@@ -3,6 +3,6 @@
 ![[Pasted image 20240430130615.png]]
 ![[Pasted image 20240430130642.png]]
 
-![[Pasted image 20240430130837.png]]aw
+![[Pasted image 20240430130837.png]]
 
 https://docs.google.com/document/d/1CWElO-mYPWNs6QF5RVkZAmgGySWApdSdzTi_SaqOXck/edit

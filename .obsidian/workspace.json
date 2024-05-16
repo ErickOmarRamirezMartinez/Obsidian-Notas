@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Java Developer/Semana 10/16 de Mayo de 2024.md",
+                "file": "Full Stack Java Developer/Semana 10/16 de Mayo de 2024 Intro SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack Java Developer/Semana 10/16 de Mayo de 2024.md",
+                "file": "Full Stack Java Developer/Semana 10/16 de Mayo de 2024 Intro SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack Java Developer/Semana 10/16 de Mayo de 2024.md",
+                "file": "Full Stack Java Developer/Semana 10/16 de Mayo de 2024 Intro SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack Java Developer/Semana 10/16 de Mayo de 2024.md"
+                "file": "Full Stack Java Developer/Semana 10/16 de Mayo de 2024 Intro SQL.md"
               }
             }
           }
@@ -151,19 +151,20 @@
   },
   "active": "814afc195d670695",
   "lastOpenFiles": [
-    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516110538.png",
-    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516103935.png",
-    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516103647.png",
-    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516101435.png",
-    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516100835.png",
-    "Full Stack Java Developer/Semana 10/15 de Mayo del 2024.md",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516155448.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516155220.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516155040.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516154829.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516154737.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516154043.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516154020.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516154015.png",
     "Full Stack Java Developer/Semana 10/16 de Mayo de 2024.md",
-    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516095857.png",
-    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240515120800.png",
-    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240515121803.png",
-    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240515121645.png",
-    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240515121533.png",
-    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240515121525.png",
+    "Full Stack Java Developer/Semana 10/16 de Mayo de 2024 Intro SQL.md",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516122452.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516122158.png",
+    "Full Stack Java Developer/Semana 10/extras/Pasted image 20240516121914.png",
+    "Full Stack Java Developer/Semana 10/15 de Mayo del 2024.md",
     "Full Stack Java Developer/Semana 10/14 de Mayo de 2024 intro BD.md",
     "Full Stack Java Developer/Semana 10/14 de Mayo de 2024 Intalacion Workbench.md",
     "Full Stack Java Developer/Semana 10/14 de Marzo de 2024 JV.md",
@@ -188,7 +189,6 @@
     "Curso Desarrollo Web/Node.JS/Introduccion a NPM.md",
     "Curso Desarrollo Web/Node.JS/AXIOS.md",
     "Full Stack Java Developer/Semana 9/07 de Mayo de 2024.md",
-    "Full Stack Java Developer/Semana 8/JAVA.md",
     "Full Stack Java Developer/Semana 9/06-05-2024/extras",
     "Full Stack Java Developer/Semana 9/06-05-2024",
     "Full Stack Java Developer/Semana 9/extras",

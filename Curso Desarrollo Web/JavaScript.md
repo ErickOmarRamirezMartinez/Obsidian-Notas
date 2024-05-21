@@ -10,3 +10,6 @@ https://www.freecodecamp.org/learn/project-euler/#project-euler-problems-1-to-10
 
 
 https://roadmap.sh/javascript
+
+
+![[Pasted image 20240517094531.png]]

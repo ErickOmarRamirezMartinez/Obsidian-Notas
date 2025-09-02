@@ -1,4 +1,4 @@
-Paso #1  
+noPaso #1  
 en la ruta 
 ```
 cd /export/home/dumpfiles/tlfs/
@@ -52,7 +52,7 @@ cd /export/home/dumpfiles/tlfs/test/
 ```
   
 3-. Renombrar los archivos de la siguiente manera.  
-   -20231010_atm_cifras >>> R2MMDDCC  donde MM = mes DD = dia CC = corte (01)  
+   -20231010_atm_cifras >>> R2MMDD  donde MM = mes DD 
    -20231010_atm_stat   >>> EMMDDCCC  donde MM = mes DD = dia CCC = corte (001)
 Los archivos deben de estar descomprimidos 
 

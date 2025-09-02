@@ -1,6 +1,6 @@
 ### Guardar archivos de carga PMT
 ``` bash
-cd  /export/home/ent/
+cd  /export/home/ent/ABR_04
 ```
  agrega tambíen el día y el mes
  #NOTA Hay un limite de consecutivo para la corte, por lo cual una vez llegado debe cambiarse. por el 201,202,203.
@@ -62,9 +62,9 @@ cd /aplic/prod/pmt/adq/shell
 ```
   
 ``` bash
-ksh -x PMTGADQB999G02 20231211 0346 1757
-ksh -x PMTGADQB999G02 20231211 0346 1758
-ksh -x PMTGADQB999G02 20231211 0346 1759
+ksh -x PMTGADQB999G02 20231211 0346 1757 == 103
+ksh -x PMTGADQB999G02 20231211 0346 1758 == 103
+ksh -x PMTGADQB999G02 20231211 0346 1759 == 103
 ksh -x PMTGADQB999G02 20231211 0346 1760
 ksh -x PMTGADQB999G02 20231211 0346 1761
 ksh -x PMTGADQB999G02 20231211 0346 1762
@@ -74,9 +74,9 @@ ksh -x PMTGADQB999G02 20231211 0346 1765
 ```
 
 ```bash
-ksh -x PMTGADQB999G02 20231211 1019 1907
-ksh -x PMTGADQB999G02 20231211 1019 1908
-ksh -x PMTGADQB999G02 20231211 1019 1909
+ksh -x PMTGADQB999G02 20231211 1019 1907 == 101
+ksh -x PMTGADQB999G02 20231211 1019 1908 == 102
+ksh -x PMTGADQB999G02 20231211 1019 1909 == 103
 ksh -x PMTGADQB999G02 20231211 1019 1910
 ksh -x PMTGADQB999G02 20231211 1019 1911
 ksh -x PMTGADQB999G02 20231211 1019 1912
@@ -85,6 +85,9 @@ ksh -x PMTGADQB999G02 20231211 1019 1914
 ksh -x PMTGADQB999G02 20231211 1019 1915
 ```
 								
+![[Pasted image 20250408205542.png]]
+
+
 ### Donde se guardan los archivos creados
 
 ubicación: 

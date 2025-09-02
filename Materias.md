@@ -1,0 +1,36 @@
+# 6CM5	C619-APLICACIONES PARA COMUNICACIONES EN RED
+
+**Cuaderno
+
+
+---
+# 6CM4	C618-INGENIERIA DE SOFTWARE	
+
+### Revision de Modelos de tipo de clases
+
+
+
+---
+# 7CV5	C717-DESARROLLO DE APLICACIONES MOVILES NATIVAS
+
+
+---
+# 6CM5	C601-INTELIGENCIA ARTIFICIAL
+
+**Cuaderno
+
+### TAREA
+10 agente de inteligencia 
+
+
+---
+# 6CM2	C602-SISTEMAS EN CHIP
+
+
+
+---
+# 6CV4	C610-CRIPTOGRAFIA|INTRODUCTION TO CRYPTOGRAPHY
+
+**Cuadero
+
+### Tarea en Teams

@@ -45,7 +45,7 @@ YA en la base de datos
 
 Las cargas deben ir por numero consecutivo
 
-AL llegar al 108
+AL llegar al 107
 POrque al llegar a cierto limite cambia el numero de carga asignada
 
 
@@ -75,3 +75,28 @@ Volvemos a base de datos para visualizar la carfga
 Para esto, hay que tomar evidencias
 
 ![[Pasted image 20250324124645.png]]
+
+
+---
+Una vez hecho la carga, validada y checar si no hubi transacciones rechazadas
+
+
+HAcemos la compensacion 
+![[Pasted image 20250324140714.png]]
+
+![[Pasted image 20250324141211.png]]
+
+YA se compenso 
+
+---
+
+REPLICA = PMTEXE
+AHora hay que hacer la replica
+
+![[Pasted image 20250324141512.png]]
+
+
+
+
+
+![[Pasted image 20250324142243.png]]

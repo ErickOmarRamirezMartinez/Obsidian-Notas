@@ -1,0 +1,36 @@
+PASO #2
+Usuarios:
+ptlfexe 172.16.136.239
+user:ptlfexe
+pass:$1$A4b)'gg34<O$<:q
+3-. Carga de PTLF Historico.
+    Estos insumos nos lo pasa Gaby Becerril de Online.
+    ************Historico***************
+    - Con el usuario ptlfexe en la 239
+    sftp extracts@172.16.136.239
+    usuario ptlfexe
+    extqa971
+    cd /certificacion/home/extracts/2023/JUL18/
+    mget CIFH2905
+    mget R0529001
+     bye
+     pwd
+     chmod 775 *
+     mv *archivo*  
+    - Colocar los archivos de datos  y las cifras en la ruta /aplic/prod/ptl/ptl/ent,
+    PTLBPTLEX99G01 -- datos
+    RPmmdd1 -- cifras
+    
+    PTLBPTLEX99G01
+    RP07181
+
+En la ruta /export/home/ptlfexe se ejecuta el shell CARGA_HISTORICO.sh mandando como parámetros fecha (YYYYMMDD) consecutivo (NN)
+    - Ej:  ksh -x CARGA_HISTORICO.sh 20230718 01
+
+     Teniendo la informacion procesada se generan los reportes de PTLFH
+
+     Generar Reportes PTLFH
+     cd /aplic/prod/ptl/rpt/shell
+     ksh -x PTLBRPTP346G01 20230718 1
+     ksh -x PTLBRPTP346G01 20230718 2
+     ksh -x PTLBRPTP346G01 20230718 3

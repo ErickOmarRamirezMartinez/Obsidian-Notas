@@ -4,39 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "dc66c145812d62bd",
+        "id": "0c533a332901c7bc",
         "type": "tabs",
         "children": [
           {
-            "id": "c665e4fd0747151a",
+            "id": "22dfea71b38b512f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack/Javascript/Introduccion/Introduccion.md",
+                "file": "PENDIENTES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduccion"
+              "title": "PENDIENTES"
             }
           },
           {
-            "id": "d884081acbaf123b",
+            "id": "4de6d2fba243958e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chamba/Semana 1/CARGAS PMA.md",
+                "file": "Materias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CARGAS PMA"
+              "title": "Materias"
+            }
+          },
+          {
+            "id": "4a103dd0bbe1fe69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ing en Sistemas C/Desarrollo de Aplicaciones Moviles/Septiembre/01 de Septiembre del 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 de Septiembre del 2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#news",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 221.5
   },
   "right": {
     "id": "fde6696123ab1c11",
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing en Sistemas C/Redes de Computadoras - CCNA 640-802/Capitulo 1/1.2 Modelo de Referencia OSI.md",
+                "file": "Sin título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 1.2 Modelo de Referencia OSI"
+              "title": "Enlaces entrantes de Sin título"
             }
           },
           {
@@ -128,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing en Sistemas C/Redes de Computadoras - CCNA 640-802/Capitulo 1/1.2 Modelo de Referencia OSI.md",
+                "file": "Sin título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 1.2 Modelo de Referencia OSI"
+              "title": "Enlaces salientes de Sin título"
             }
           },
           {
@@ -143,7 +156,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
@@ -155,14 +170,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing en Sistemas C/Redes de Computadoras - CCNA 640-802/Capitulo 1/1.2 Modelo de Referencia OSI.md"
+                "file": "Sin título.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 1.2 Modelo de Referencia OSI"
+              "title": "Esquema de Sin título"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -181,54 +198,55 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d884081acbaf123b",
+  "active": "c51a071391253374",
   "lastOpenFiles": [
-    "Chamba/Semana 1/Cargas PMT.md",
-    "Chamba/Semana 1/Cargas RED.md",
-    "Chamba/Semana 1/CARGAS PMA.md",
-    "Chamba/Semana 2/Cargas con Joaco.md",
-    "Chamba/Semana 2/extras/Pasted image 20250324124645.png",
-    "Chamba/Semana 2/extras/Pasted image 20250324123654.png",
-    "Chamba/Semana 2/extras/Pasted image 20250324123637.png",
-    "Chamba/Semana 2/extras/Pasted image 20250324123540.png",
-    "Chamba/Semana 2/extras/Pasted image 20250324123533.png",
-    "Chamba/Semana 2/extras/Pasted image 20250324123514.png",
-    "Chamba/Semana 2/extras/Pasted image 20250324123452.png",
-    "Chamba/Semana 2/extras/Pasted image 20250324123438.png",
-    "Chamba/Semana 2/extras/Pasted image 20250324123432.png",
-    "Chamba/Semana 2/extras/Pasted image 20250324123407.png",
-    "Chamba/Semana 2/extras",
-    "Chamba/Semana 2",
-    "Chamba/Semana 1/TXT.md",
-    "Chamba/Semana 1/extras/CARGAS PMA.md",
-    "Chamba/Semana 1/19-03-2025.md",
-    "Chamba/Semana 1/Primera Reunion.md",
-    "Chamba/Semana 1/extras",
-    "Chamba/Semana 1",
-    "Chamba",
-    "Ing en Sistemas C/Redes de Computadoras - CCNA 640-802/extras/CCNA-1-2.pdf",
-    "Ing en Sistemas C/Redes de Computadoras - CCNA 640-802/extras",
-    "cmd.md",
-    "Ing en Sistemas C/Redes de Computadoras - CCNA 640-802/LIBRO REDES.md",
-    "Re.md",
+    "Materias.md",
+    "Ing en Sistemas C/Desarrollo de Aplicaciones Moviles/Septiembre/01 de Septiembre del 2025.md",
+    "Ing en Sistemas C/Ingenieria en Software/SEPTIEMBRE/01 de Septiembre del 2025.md",
+    "PENDIENTES.md",
+    "Ing en Sistemas C/Desarrollo de Aplicaciones Moviles/Septiembre",
+    "Ing en Sistemas C/Ingenieria en Software/SEPTIEMBRE/extras/IMG_20250901_132301.jpg",
+    "Ing en Sistemas C/Ingenieria en Software/SEPTIEMBRE/extras/IMG_20250901_123849.jpg",
+    "Ing en Sistemas C/Ingenieria en Software/SEPTIEMBRE/extras/Pasted image 20250901121949.png",
+    "Ing en Sistemas C/Ingenieria en Software/SEPTIEMBRE/extras",
+    "Ing en Sistemas C/Inteligencia Artificial/Septiembre/01 de Septiembre del 2025.md",
+    "Ing en Sistemas C/Ingenieria en Software/SEPTIEMBRE",
+    "Chamba/Semana 4/Ambientacion.md",
+    "Ing en Sistemas C/Inteligencia Artificial/Septiembre",
+    "Ing en Sistemas C/Desarrollo de Aplicaciones Moviles/Agosto/28 de Agosto del 2025.md",
+    "Ing en Sistemas C/Desarrollo de Aplicaciones Moviles/Agosto/extras/Pasted image 20250828134327.png",
+    "Ing en Sistemas C/Desarrollo de Aplicaciones Moviles/Agosto/extras",
+    "Ing en Sistemas C/Desarrollo de Aplicaciones Moviles/Agosto/26 de agosto del 2025.md",
+    "Ing en Sistemas C/Ingenieria en Software/AGOSTO/28 de Agosto del 2025.md",
+    "Ing en Sistemas C/Ingenieria en Software/AGOSTO/extras/IMG_20250828_132226.jpg",
+    "Ing en Sistemas C/Ingenieria en Software/AGOSTO/extras/IMG_20250828_124213.jpg",
+    "Ing en Sistemas C/Ingenieria en Software/AGOSTO/extras/IMG_20250828_122202.jpg",
+    "Ing en Sistemas C/Ingenieria en Software/AGOSTO/extras",
+    "Ing en Sistemas C/Ingenieria en Software/AGOSTO/27 de agosto del 2025.md",
+    "[MOS.md",
+    "Ing en Sistemas C/Aplicaciones para comunicaciones en Red/AGOSTO/28 de Agosto del 2025.md",
+    "Ing en Sistemas C/Aplicaciones para comunicaciones en Red/AGOSTO/extras/IMG_20250828_093128.jpg",
+    "Ing en Sistemas C/Aplicaciones para comunicaciones en Red/AGOSTO/extras/IMG_20250828_092717.jpg",
+    "Ing en Sistemas C/Aplicaciones para comunicaciones en Red/AGOSTO/extras/IMG_20250828_090811.jpg",
+    "Ing en Sistemas C/Aplicaciones para comunicaciones en Red/AGOSTO/27 de Agosto del 2025.md",
+    "Ing en Sistemas C/Sistemas en Chip/AGOSTO/28 de Agosto del 2025.md",
+    "Ing en Sistemas C/Sistemas en Chip/AGOSTO/extras",
     "Ing en Sistemas C/Redes de Computadoras - CCNA 640-802/Capitulo 1/1.2 Modelo de Referencia OSI.md",
+    "Ing en Sistemas C/Sistemas en Chip/AGOSTO/Sin nombre",
+    "Ing en Sistemas C/Sistemas en Chip/AGOSTO",
+    "Ing en Sistemas C/Sistemas en Chip",
+    "Curso Desarrollo Web/REACT/React - Codigo Facilito.md",
+    "Ing en Sistemas C/Inteligencia Artificial/Agosto/26 de Agosto del 2025.md",
     "Ing en Sistemas C/Redes de Computadoras - CCNA 640-802/Capitulo 1/1.1 Introducción a las Redes.md",
-    "Full Stack/Javascript/ROADMAP JS.md",
-    "Full Stack/Javascript/Introduccion/Introduccion.md",
-    "Full Stack/Javascript/Introduccion",
-    "Full Stack/ROADMAP.md",
-    "Full Stack/Javascript/extras/javascript.pdf",
-    "Full Stack/Javascript/extras",
-    "Ing en Sistemas C/Redes de Computadoras/Conceptos básicos de redes/Modulo. 1/1.1 Tipos de Red.md",
     "Ing en Sistemas C/Redes de Computadoras/Conceptos básicos de redes/Modulo. 1/1.2 Trasmision de Datos.md",
-    "Ing en Sistemas C/Redes de Computadoras/Conceptos básicos de redes/Modulo. 1/1. Introduccion.md",
-    "Platzi/Python.md",
-    "Platzi/SHELL.md",
-    "Curso Desarrollo Web/JavaScript.md",
-    "Curso Desarrollo Web/JavaScript/DOM/DOM parte 2.md",
-    "Curso Desarrollo Web/JavaScript/DOM/DOM.md",
-    "Curso Desarrollo Web/Diseño UX-UI/Taller Figma.md",
+    "Ing en Sistemas C/Redes de Computadoras/Conceptos básicos de redes/Modulo. 1/1.2 Tipos de Red.md",
+    "Ing en Sistemas C/Redes de Computadoras/Conceptos básicos de redes/Modulo. 1/1.1 Tipos de Red.md",
+    "Ing en Sistemas C/Redes de Computadoras/Conceptos básicos de redes/Modulo. 1/1.1 Introduccion.md",
     "Sin título.canvas",
+    "Chamba/Semana 2/Cargas con Joaco.md",
+    "Ing en Sistemas C/Redes de Computadoras/Conceptos básicos de redes/Modulo. 1/1. Introduccion.md",
+    "Full Stack/ROADMAP.md",
+    "Full Stack/Javascript/ROADMAP JS.md",
     "Curso Desarrollo Web/HTML5/Listas/Sin título.canvas",
     "Curso Desarrollo Web/HTML5/Introduccion a CSS/Sin título.canvas"
   ]

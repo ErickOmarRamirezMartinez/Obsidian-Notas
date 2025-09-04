@@ -20,8 +20,13 @@
 
 # 1 de Septiembre del 2025
 
-### Inteligencia Artificial
-Tarea de los 10 agentes
+
+# 2 de Septiembre del 2025
+
+## Criptografia
+Tarea 
+
+
 
 ---
 
@@ -38,5 +43,4 @@ Tarea de los 10 agentes
 * Ir a solicitar el documento para meter para el Servicio Social
 * Constancia de creditos 
 * Carta de presentacion
-* 
 

@@ -32,7 +32,7 @@ Un AI agent o agente de inteligencia artificial se refiere a un sistema o progra
 # Arquitecturas
 Se clasifican segun la forma en que procesan la informacion y 
 
-* Basada en reglas
+* Basada en Reglas
 * Basada en Objetivos 
 * Basada en Utilidad
 * De Aprendizaje
